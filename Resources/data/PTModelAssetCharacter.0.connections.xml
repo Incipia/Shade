@@ -24,6 +24,20 @@
                     <string>191</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>8730</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8732</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8779</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

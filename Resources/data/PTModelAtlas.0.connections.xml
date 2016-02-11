@@ -12,31 +12,57 @@
                 <array>
                     <string>170</string>
                     <string>3111</string>
-                    <string>1530</string>
-                    <string>1529</string>
-                    <string>1528</string>
-                    <string>1527</string>
-                    <string>1526</string>
                     <string>1525</string>
+                    <string>1526</string>
+                    <string>1527</string>
+                    <string>1528</string>
+                    <string>1529</string>
+                    <string>1530</string>
                     <string>1565</string>
                     <string>2196</string>
-                    <string>2842</string>
-                    <string>2358</string>
-                    <string>1160</string>
                     <string>1116</string>
+                    <string>1160</string>
+                    <string>2358</string>
+                    <string>2842</string>
                     <string>497</string>
                     <string>473</string>
                     <string>638</string>
+                    <string>8998</string>
+                    <string>8632</string>
                     <string>8134</string>
+                    <string>9110</string>
+                    <string>8768</string>
+                    <string>8511</string>
+                    <string>8748</string>
                     <string>6909</string>
                     <string>2676</string>
                     <string>2663</string>
                     <string>2600</string>
                     <string>2544</string>
+                    <string>1720</string>
                     <string>2273</string>
                     <string>1937</string>
-                    <string>1720</string>
+                    <string>9198</string>
+                    <string>8652</string>
+                    <string>9248</string>
                     <string>1554</string>
+                    <string>9289</string>
+                    <string>8586</string>
+                    <string>8590</string>
+                    <string>8592</string>
+                    <string>8589</string>
+                    <string>8593</string>
+                    <string>8594</string>
+                    <string>8595</string>
+                    <string>8596</string>
+                    <string>8597</string>
+                    <string>8588</string>
+                    <string>8587</string>
+                    <string>8582</string>
+                    <string>8583</string>
+                    <string>8584</string>
+                    <string>8585</string>
+                    <string>8591</string>
                 </array>
             </dict>
             <dict>
@@ -57,6 +83,7 @@
                     <string>2222</string>
                     <string>2221</string>
                     <string>2945</string>
+                    <string>9294</string>
                 </array>
             </dict>
             <dict>
@@ -75,6 +102,22 @@
                     <string>4435</string>
                     <string>3791</string>
                     <string>3790</string>
+                    <string>8684</string>
+                    <string>8506</string>
+                    <string>8505</string>
+                    <string>8504</string>
+                    <string>8503</string>
+                    <string>8502</string>
+                    <string>9340</string>
+                    <string>9328</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8519</string>
+                <key>sprites</key>
+                <array>
+                    <string>8625</string>
                 </array>
             </dict>
         </array>

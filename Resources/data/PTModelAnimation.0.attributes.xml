@@ -305,6 +305,66 @@
                 <key>animationSpeed</key>
                 <string>0.010000</string>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>8687</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8732</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8744</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>3.000000</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8751</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8771</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8779</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>3.000000</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
         </array>
     </dict>
 </plist>

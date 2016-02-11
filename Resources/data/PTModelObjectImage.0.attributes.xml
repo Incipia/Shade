@@ -13,12 +13,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>RestartOverlay</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,568.000}</string>
+                    <string>{310.000,560.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -392,6 +392,132 @@
                 <dict>
                     <key>value</key>
                     <string>Untitled</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8514</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,568.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{9.107,12.377}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8635</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,743.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8688</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8752</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8772</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9025</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9113</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,568.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.790,12.326}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>

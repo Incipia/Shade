@@ -174,6 +174,19 @@
                 <key>sourceSize</key>
                 <string>{500, 500}</string>
             </dict>
+            <key>PTModelSprite_ID9294</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1896, 1508}, {100, 100}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {100, 100}}</string>
+                <key>sourceSize</key>
+                <string>{100, 100}</string>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>

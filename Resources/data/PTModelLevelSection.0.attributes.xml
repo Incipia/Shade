@@ -517,15 +517,24 @@
                     <key>value</key>
                     <string>H5a</string>
                 </dict>
-                <key>End Distance</key>
+                <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>1.000000</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>

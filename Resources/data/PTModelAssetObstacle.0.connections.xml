@@ -120,6 +120,15 @@
                     <string>8137</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>8769</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8771</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>
