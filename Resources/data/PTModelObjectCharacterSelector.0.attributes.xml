@@ -32,52 +32,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>8663</string>
-                <key>className</key>
-                <string>PTModelObjectCharacterSelector</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Character Selector</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,200.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.500,0.500}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spread</key>
-                <dict>
-                    <key>value</key>
-                    <string>400.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Label Visibility</key>
-                <dict>
-                    <key>value</key>
-                    <string>0</string>
-                </dict>
-                <key>Label Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>2</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>8891</string>
                 <key>className</key>
                 <string>PTModelObjectCharacterSelector</string>
@@ -167,7 +121,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>8914</string>
+                <string>10302</string>
                 <key>className</key>
                 <string>PTModelObjectCharacterSelector</string>
                 <key>Name</key>
@@ -178,7 +132,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,200.000}</string>
+                    <string>{320.000,180.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{6.444,1.293}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -203,6 +164,59 @@
                 </dict>
                 <key>zDepth</key>
                 <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>8914</string>
+                <key>className</key>
+                <string>PTModelObjectCharacterSelector</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Selector</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,280.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{9.751,1.660}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spread</key>
+                <dict>
+                    <key>value</key>
+                    <string>400.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Visibility</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Vertical Spacing</key>
+                <dict>
+                    <key>value</key>
+                    <string>-125.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>10</string>
             </dict>
         </array>
     </dict>

@@ -59,10 +59,17 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoBackground</string>
+                    <string>10197</string>
                 </dict>
                 <key>key</key>
                 <string>PTPScreenMainMenu</string>
@@ -153,6 +160,13 @@
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
                 </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>visible</key>
@@ -184,6 +198,13 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kNoAds</string>
+                </dict>
+                <key>Ad Interstitials Freq.</key>
+                <dict>
+                    <key>value</key>
+                    <string>5.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Background Scene</key>
                 <dict>

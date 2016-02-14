@@ -13,12 +13,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Default Font</string>
+                    <string>Avenir</string>
                 </dict>
                 <key>Font name</key>
                 <dict>
                     <key>value</key>
-                    <string>.Lucida Grande UI</string>
+                    <string>Avenir</string>
                 </dict>
                 <key>Main Color</key>
                 <dict>

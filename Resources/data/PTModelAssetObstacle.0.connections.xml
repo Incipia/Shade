@@ -105,6 +105,11 @@
                     <key>value</key>
                     <string>3712</string>
                 </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>11406</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -127,6 +132,51 @@
                 <dict>
                     <key>value</key>
                     <string>8771</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10690</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10692</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10761</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>10763</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11681</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>11683</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>12047</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>12049</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15522</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>15524</string>
                 </dict>
             </dict>
         </array>

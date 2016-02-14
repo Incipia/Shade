@@ -27,7 +27,7 @@
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>2000.000000</string>
+                    <string>1000.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -37,6 +37,451 @@
                 <string>0</string>
                 <key>initSection</key>
                 <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9878</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>TutorialLeftTri</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>3500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10035</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>TutorialLeftBox</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>3500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11339</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>TutorialRightTri</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>3500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11374</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>TutorialRightBox</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>3500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>796</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>E1a</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11622</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>E1a2</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11567</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>E2a</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11589</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>E2b</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>1091</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>E3a</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11416</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>M2a</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>11472.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11528</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>M2b</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>11440.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11542</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>M2c</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>11314.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11554</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>M2d</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>11346.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -51,7 +496,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>11588.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -89,83 +534,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>2000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>796</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>E1a</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Width</key>
-                <dict>
-                    <key>value</key>
-                    <string>2000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>muted</key>
-                <string>0</string>
-                <key>solo</key>
-                <string>0</string>
-                <key>initSection</key>
-                <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>1091</string>
-                <key>className</key>
-                <string>PTModelLevelSection</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>E1b</string>
-                </dict>
-                <key>Start Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>End Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>-1.000000</string>
+                    <string>11588.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -196,7 +565,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17572.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -234,7 +603,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17445.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -265,7 +634,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17509.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -296,7 +665,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17445.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -327,7 +696,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17445.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -358,7 +727,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17477.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -389,7 +758,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17445.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -427,7 +796,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17445.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -458,7 +827,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17477.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -489,7 +858,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17351.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -520,7 +889,9 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>1.000000</string>
+                    <string>17382.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
@@ -533,6 +904,118 @@
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>14310</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>H5b</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>17382.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15251</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>H6a</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>17445.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15375</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>H6b</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>17445.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10197</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>StartUnderlay</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1200.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

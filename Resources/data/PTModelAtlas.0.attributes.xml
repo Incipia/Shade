@@ -71,45 +71,13 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>3098</string>
+                <string>11403</string>
                 <key>className</key>
                 <string>PTModelAtlas</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
                     <string>Atlas#3</string>
-                </dict>
-                <key>width</key>
-                <dict>
-                    <key>value</key>
-                    <string>2048.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>height</key>
-                <dict>
-                    <key>value</key>
-                    <string>2048.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>padding</key>
-                <dict>
-                    <key>value</key>
-                    <string>4.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>8519</string>
-                <key>className</key>
-                <string>PTModelAtlas</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Atlas#4</string>
                 </dict>
                 <key>width</key>
                 <dict>

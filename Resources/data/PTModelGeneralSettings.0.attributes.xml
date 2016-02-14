@@ -18,7 +18,7 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.3</string>
+                    <string>0.5</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
@@ -45,14 +45,14 @@
                 <key>Game Speed Max</key>
                 <dict>
                     <key>value</key>
-                    <string>10.000000</string>
+                    <string>9.200000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Game Speed Increase</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>0.000040</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -142,11 +142,13 @@
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>9540</string>
+                <string>15619</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
+                        <key>iAds</key>
+                        <string>0</string>
                         <key>bundleID</key>
                         <string>com.Incipia.Shade</string>
                         <key>nameOnDevice</key>
@@ -180,7 +182,7 @@
                 <key>scoreType</key>
                 <string>Coins</string>
                 <key>shareScreen</key>
-                <string>Game Field Screen</string>
+                <string>Game Over Screen</string>
                 <key>objectFrameEdgeState_0</key>
                 <string>0</string>
                 <key>objectFrameEdgeState_1</key>

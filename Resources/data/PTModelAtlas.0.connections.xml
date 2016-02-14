@@ -11,58 +11,45 @@
                 <key>sprites</key>
                 <array>
                     <string>170</string>
+                    <string>3709</string>
                     <string>3111</string>
-                    <string>1525</string>
-                    <string>1526</string>
-                    <string>1527</string>
-                    <string>1528</string>
-                    <string>1529</string>
-                    <string>1530</string>
+                    <string>3112</string>
+                    <string>3113</string>
+                    <string>2427</string>
                     <string>1565</string>
-                    <string>2196</string>
                     <string>1116</string>
-                    <string>1160</string>
                     <string>2358</string>
                     <string>2842</string>
                     <string>497</string>
                     <string>473</string>
+                    <string>11111</string>
                     <string>638</string>
                     <string>8998</string>
-                    <string>8632</string>
-                    <string>8134</string>
                     <string>9110</string>
                     <string>8768</string>
-                    <string>8511</string>
-                    <string>8748</string>
-                    <string>6909</string>
+                    <string>8134</string>
                     <string>2676</string>
                     <string>2663</string>
-                    <string>2600</string>
                     <string>2544</string>
-                    <string>1720</string>
                     <string>2273</string>
                     <string>1937</string>
+                    <string>1720</string>
+                    <string>6909</string>
                     <string>9198</string>
-                    <string>8652</string>
-                    <string>9248</string>
                     <string>1554</string>
-                    <string>9289</string>
-                    <string>8586</string>
-                    <string>8590</string>
-                    <string>8592</string>
-                    <string>8589</string>
-                    <string>8593</string>
-                    <string>8594</string>
-                    <string>8595</string>
-                    <string>8596</string>
-                    <string>8597</string>
-                    <string>8588</string>
-                    <string>8587</string>
-                    <string>8582</string>
-                    <string>8583</string>
-                    <string>8584</string>
-                    <string>8585</string>
-                    <string>8591</string>
+                    <string>10512</string>
+                    <string>10518</string>
+                    <string>10556</string>
+                    <string>10566</string>
+                    <string>10582</string>
+                    <string>10588</string>
+                    <string>10594</string>
+                    <string>10689</string>
+                    <string>11160</string>
+                    <string>10850</string>
+                    <string>10812</string>
+                    <string>11462</string>
+                    <string>11474</string>
                 </array>
             </dict>
             <dict>
@@ -70,28 +57,6 @@
                 <string>1503</string>
                 <key>sprites</key>
                 <array>
-                    <string>3709</string>
-                    <string>3113</string>
-                    <string>3112</string>
-                    <string>2201</string>
-                    <string>2200</string>
-                    <string>2199</string>
-                    <string>2198</string>
-                    <string>2427</string>
-                    <string>2426</string>
-                    <string>2197</string>
-                    <string>2222</string>
-                    <string>2221</string>
-                    <string>2945</string>
-                    <string>9294</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3098</string>
-                <key>sprites</key>
-                <array>
-                    <string>6897</string>
                     <string>4451</string>
                     <string>4450</string>
                     <string>4449</string>
@@ -102,22 +67,24 @@
                     <string>4435</string>
                     <string>3791</string>
                     <string>3790</string>
-                    <string>8684</string>
-                    <string>8506</string>
-                    <string>8505</string>
-                    <string>8504</string>
-                    <string>8503</string>
-                    <string>8502</string>
-                    <string>9340</string>
-                    <string>9328</string>
+                    <string>2426</string>
+                    <string>2945</string>
+                    <string>10219</string>
+                    <string>12033</string>
+                    <string>15484</string>
+                    <string>10760</string>
+                    <string>10245</string>
+                    <string>15521</string>
+                    <string>12176</string>
+                    <string>11680</string>
                 </array>
             </dict>
             <dict>
                 <key>id</key>
-                <string>8519</string>
+                <string>11403</string>
                 <key>sprites</key>
                 <array>
-                    <string>8625</string>
+                    <string>11402</string>
                 </array>
             </dict>
         </array>
