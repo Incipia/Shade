@@ -623,7 +623,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5387,7 +5387,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -25900,7 +25900,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>505</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -25998,7 +25998,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>506</string>
+                <string>507</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26327,7 +26327,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>506</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26425,7 +26425,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>505</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26523,7 +26523,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>506</string>
+                <string>507</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26852,7 +26852,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>506</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26950,7 +26950,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>505</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27048,7 +27048,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>506</string>
+                <string>507</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27377,7 +27377,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>506</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27475,7 +27475,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>505</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27573,7 +27573,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>506</string>
+                <string>507</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27902,7 +27902,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>506</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -28115,7 +28115,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{280.000,650.000}</string>
+                    <string>{250.000,650.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -28220,7 +28220,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{360.000,1430.000}</string>
+                    <string>{390.000,1430.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -28521,7 +28521,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{280.000,1430.000}</string>
+                    <string>{250.000,1430.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -28626,7 +28626,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{360.000,650.000}</string>
+                    <string>{390.000,650.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -28962,7 +28962,7 @@
                 <key>Linear Velocity</key>
                 <dict>
                     <key>value</key>
-                    <string>{-8.000,0.000}</string>
+                    <string>{-7.000,0.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -28991,10 +28991,12 @@
                 <key>Sleep</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kDistanceBasedSleep</string>
+                    <string>kNoWakeup</string>
                 </dict>
                 <key>Sleep Distance</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>300.000000</string>
                     <key>useDefault</key>
@@ -29552,7 +29554,7 @@
                 <key>Linear Velocity</key>
                 <dict>
                     <key>value</key>
-                    <string>{8.000,0.000}</string>
+                    <string>{7.000,0.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -29581,10 +29583,12 @@
                 <key>Sleep</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kDistanceBasedSleep</string>
+                    <string>kNoWakeup</string>
                 </dict>
                 <key>Sleep Distance</key>
                 <dict>
+                    <key>visible</key>
+                    <string>0</string>
                     <key>value</key>
                     <string>300.000000</string>
                     <key>useDefault</key>

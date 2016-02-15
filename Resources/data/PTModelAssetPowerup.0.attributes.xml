@@ -75,7 +75,7 @@
                 <key>Camera Flash</key>
                 <dict>
                     <key>value</key>
-                    <string>0.200000</string>
+                    <string>0.300000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -342,7 +342,7 @@
                 <key>Camera Flash</key>
                 <dict>
                     <key>value</key>
-                    <string>0.200000</string>
+                    <string>0.300000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -607,7 +607,7 @@
                 <key>Camera Flash</key>
                 <dict>
                     <key>value</key>
-                    <string>0.200000</string>
+                    <string>0.300000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -838,17 +838,17 @@
                 <key>Animation Placement</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kPowerupCharacterConstraint</string>
+                    <string>kPowerupFreeConstraint</string>
                 </dict>
                 <key>Animation Behaviour</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kOverlayBehaviour</string>
+                    <string>kReplaceBehaviour</string>
                 </dict>
                 <key>Animation Repeat</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kLoopedAnimation</string>
+                    <string>kSinglrPlayAnimation</string>
                 </dict>
                 <key>Show coin reward</key>
                 <dict>

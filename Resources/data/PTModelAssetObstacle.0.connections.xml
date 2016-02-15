@@ -127,15 +127,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>8769</string>
-                <key>Idle Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>8771</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>10690</string>
                 <key>Idle Animation</key>
                 <dict>
@@ -163,6 +154,20 @@
             </dict>
             <dict>
                 <key>id</key>
+                <string>8769</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>8771</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>17384</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
                 <string>12047</string>
                 <key>Idle Animation</key>
                 <dict>
@@ -177,6 +182,24 @@
                 <dict>
                     <key>value</key>
                     <string>15524</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16532</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16534</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17424</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>17426</string>
                 </dict>
             </dict>
         </array>

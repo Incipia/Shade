@@ -66,6 +66,20 @@
                     <string>15532</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>16499</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16501</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>16542</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>
