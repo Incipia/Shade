@@ -334,17 +334,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>10244</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>SHADEwhite</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>10511</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -473,17 +462,6 @@
                 <dict>
                     <key>value</key>
                     <string>RestartButton</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>11159</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>ByIncipia</string>
                 </dict>
             </dict>
             <dict>
@@ -671,39 +649,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>17625</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>ByIncipia</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17631</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>ByIncipia</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17637</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>ByIncipia</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>17646</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -711,6 +656,50 @@
                 <dict>
                     <key>value</key>
                     <string>ByIncipia</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17890</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>RestartButton</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17979</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SHADEhires</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18946</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>CoinNew</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19525</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlackCircle</string>
                 </dict>
             </dict>
         </array>

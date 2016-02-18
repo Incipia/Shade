@@ -185,7 +185,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{9.751,1.660}</string>
+                    <string>{6.680,1.660}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -216,7 +216,7 @@
                     <string>2</string>
                 </dict>
                 <key>zDepth</key>
-                <string>10</string>
+                <string>11</string>
             </dict>
         </array>
     </dict>

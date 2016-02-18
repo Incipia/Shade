@@ -7,120 +7,6 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>14210</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>BlockHalfBlack</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{256.000,1028.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>90.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.400,0.400}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{3.000,0.000}</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>50.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>688</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>14214</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
@@ -29178,7 +29064,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>519</string>
+                <string>516</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -29276,7 +29162,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>521</string>
+                <string>518</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -29386,7 +29272,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>520</string>
+                <string>517</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -29410,119 +29296,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.900000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>513</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15644</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>14</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{450.000,1000.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.408,0.408}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -29614,7 +29388,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15654</string>
+                <string>15644</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -29627,7 +29401,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{60.000,1100.000}</string>
+                    <string>{450.000,1040.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -29722,11 +29496,11 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>516</string>
+                <string>508</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>15656</string>
+                <string>15654</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -29739,14 +29513,126 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,1100.000}</string>
+                    <string>{120.000,1120.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.273,0.273}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>513</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15658</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{470.000,1190.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.732,0.732}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -29838,7 +29724,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15658</string>
+                <string>15665</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -29851,119 +29737,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{580.000,1100.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.900000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>504</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15661</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>14</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,1200.000}</string>
+                    <string>{150.000,1370.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -30062,7 +29836,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15663</string>
+                <string>15669</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -30075,231 +29849,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{450.000,1200.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.900000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>511</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15665</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>14</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{60.000,1300.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.900000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>517</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15667</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>14</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,1300.000}</string>
+                    <string>{500.000,1320.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -30398,230 +29948,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15669</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>14</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{580.000,1300.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.900000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>505</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15692</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>14</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,1400.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.900000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>515</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>15694</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
@@ -30642,7 +29968,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.421,0.421}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -30730,7 +30056,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>512</string>
+                <string>509</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -30769,7 +30095,107 @@
                 <key>Linear Velocity</key>
                 <dict>
                     <key>value</key>
-                    <string>{8.000,0.000}</string>
+                    <string>{6.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{4.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyNo</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>400.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15733</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>BlueCube</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1680.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlatformObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{6.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{4.000,0.000}</string>
                     <key>useDefault</key>
@@ -30831,106 +30257,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>2</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15733</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>BlueCube</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,1680.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPlatformObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{8.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{4.000,0.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyNo</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>400.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -47901,111 +47227,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>16839</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>TriangleSymmetrical</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{265.031,552.353}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>value</key>
-                    <string>90.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.247,0.247}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPlatformObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyNo</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>21</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>16847</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
@@ -48415,7 +47636,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -48513,7 +47734,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -48616,7 +47837,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -48719,7 +47940,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -48822,7 +48043,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49028,7 +48249,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49133,7 +48354,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>15</string>
+                <string>13</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49238,7 +48459,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>17</string>
+                <string>15</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49343,7 +48564,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>16</string>
+                <string>14</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49578,9 +48799,9 @@
                 <key>Linear Velocity</key>
                 <dict>
                     <key>value</key>
-                    <string>{6.000,0.000}</string>
+                    <string>{4.000,0.000}</string>
                     <key>variableValue</key>
-                    <string>{2.000,0.000}</string>
+                    <string>{1.000,0.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -49678,9 +48899,9 @@
                 <key>Linear Velocity</key>
                 <dict>
                     <key>value</key>
-                    <string>{6.000,0.000}</string>
+                    <string>{4.000,0.000}</string>
                     <key>variableValue</key>
-                    <string>{2.000,0.000}</string>
+                    <string>{1.000,0.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -49868,7 +49089,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.454,0.454}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -50288,7 +49509,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{1.051,1.051}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -50370,111 +49591,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17097</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{450.000,1200.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>18</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -50688,216 +49804,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>17106</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{60.000,1300.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>14</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17109</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,1400.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>12</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>17112</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
@@ -50918,7 +49824,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.223,0.223}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -51003,216 +49909,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>17116</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{60.000,900.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>25</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17118</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,900.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>20</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>17120</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
@@ -51226,14 +49922,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{580.000,900.000}</string>
+                    <string>{410.000,900.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.184,0.184}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -51338,7 +50034,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.165,0.165}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -51541,7 +50237,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{60.000,700.000}</string>
+                    <string>{80.000,700.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -51653,7 +50349,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.531,0.531}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -51968,7 +50664,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.300,0.300}</string>
+                    <string>{0.473,0.473}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -52155,111 +50851,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>17</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17145</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,600.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.300,0.300}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>30</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -52784,7 +51375,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.660,0.660}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -52866,111 +51457,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>15</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>17182</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{450.000,800.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.250,0.250}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>variableValue</key>
-                    <string>{1.000,1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>1000.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>10</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -53309,7 +51795,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.250,0.250}</string>
+                    <string>{0.523,0.523}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -53501,6 +51987,1530 @@
                 </dict>
                 <key>zDepth</key>
                 <string>521</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17258</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>WhiteBlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{140.000,500.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.387,0.387}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>14</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17262</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>WhiteBlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{580.000,500.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.250,0.250}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17264</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>WhiteBlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{190.000,400.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.159,0.159}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>17</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17273</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{450.000,1000.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.326,0.326}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>513</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17276</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{60.000,1110.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.250,0.250}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>510</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17279</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1110.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.250,0.250}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>511</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17287</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{190.000,1200.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.629,0.629}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>509</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17293</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{60.000,1300.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.250,0.250}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>504</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17296</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1300.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.250,0.250}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>507</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17305</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{450.000,1400.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.508,0.508}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.900000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>506</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17501</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>LightSwitch</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlatformObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-20.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,5.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyNo</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawner</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>-1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17567</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>LightSwitch</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-9.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlatformObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-20.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,5.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyNo</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawner</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>13</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17569</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>LightSwitch</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-18.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlatformObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-20.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,5.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyNo</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawner</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>14</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17571</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>LightSwitch</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-27.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlatformObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-20.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,5.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyNo</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawner</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>15</string>
             </dict>
         </array>
     </dict>

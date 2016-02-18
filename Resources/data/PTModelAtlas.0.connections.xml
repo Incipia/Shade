@@ -34,14 +34,16 @@
                     <string>2676</string>
                     <string>2663</string>
                     <string>2544</string>
+                    <string>15521</string>
                     <string>2273</string>
                     <string>1937</string>
                     <string>1720</string>
-                    <string>15521</string>
                     <string>16531</string>
+                    <string>17388</string>
                     <string>9198</string>
                     <string>16436</string>
                     <string>1554</string>
+                    <string>17325</string>
                     <string>10566</string>
                     <string>10556</string>
                     <string>10518</string>
@@ -50,7 +52,6 @@
                     <string>10588</string>
                     <string>10594</string>
                     <string>10689</string>
-                    <string>11160</string>
                     <string>10850</string>
                     <string>10812</string>
                     <string>11462</string>
@@ -68,22 +69,18 @@
                     <string>3817</string>
                     <string>3816</string>
                     <string>3815</string>
+                    <string>18947</string>
                     <string>16710</string>
                     <string>4436</string>
                     <string>4435</string>
                     <string>3791</string>
                     <string>3790</string>
                     <string>2945</string>
+                    <string>17891</string>
                     <string>16430</string>
                     <string>10760</string>
-                    <string>10245</string>
-                    <string>17388</string>
                     <string>12176</string>
                     <string>11680</string>
-                    <string>17325</string>
-                    <string>17626</string>
-                    <string>17638</string>
-                    <string>17632</string>
                     <string>17647</string>
                 </array>
             </dict>
@@ -92,7 +89,9 @@
                 <string>11403</string>
                 <key>sprites</key>
                 <array>
+                    <string>19526</string>
                     <string>11402</string>
+                    <string>17980</string>
                 </array>
             </dict>
         </array>

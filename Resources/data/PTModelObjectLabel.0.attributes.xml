@@ -52,7 +52,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -103,7 +103,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -154,7 +154,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -198,7 +198,7 @@
                     <string>BEST</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>4</string>
                 <key>calculatedSize</key>
                 <string>{141.000,82.000}</string>
             </dict>
@@ -251,7 +251,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>9</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -295,7 +295,7 @@
                     <string>-COINS-</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>6</string>
                 <key>calculatedSize</key>
                 <string>{228.000,82.000}</string>
             </dict>
@@ -341,7 +341,7 @@
                     <string>SCORE</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>5</string>
                 <key>calculatedSize</key>
                 <string>{197.000,82.000}</string>
             </dict>
@@ -384,7 +384,7 @@
                 <key>Text</key>
                 <dict>
                     <key>value</key>
-                    <string>Swipe to Choose</string>
+                    <string>Swipe to Select</string>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
@@ -392,9 +392,9 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>3</string>
                 <key>calculatedSize</key>
-                <string>{456.000,82.000}</string>
+                <string>{416.000,82.000}</string>
             </dict>
         </array>
     </dict>

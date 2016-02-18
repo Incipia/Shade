@@ -335,7 +335,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{0.079,0.079}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -445,7 +445,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{0.121,0.121}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -623,7 +623,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5387,7 +5387,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6699,7 +6699,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.129,0.129}</string>
+                    <string>{0.109,0.109}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6972,7 +6972,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{280.000,540.000}</string>
+                    <string>{280.000,550.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -7002,8 +7002,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -7075,14 +7082,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{240.000,580.000}</string>
+                    <string>{240.000,590.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.303,0.303}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -7105,8 +7112,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -7178,7 +7192,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{200.000,620.000}</string>
+                    <string>{200.000,630.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -7208,8 +7222,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -7281,7 +7302,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{400.000,580.000}</string>
+                    <string>{400.000,590.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -7311,8 +7332,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -7384,14 +7412,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{440.000,620.000}</string>
+                    <string>{440.000,630.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.486,0.486}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -7414,8 +7442,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -7494,7 +7529,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.227,0.227}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -7517,8 +7552,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -7597,7 +7639,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.303,0.303}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -7620,8 +7662,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -8338,7 +8387,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{0.126,0.126}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -8950,7 +8999,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.597,0.597}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -9060,7 +9109,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.451,0.451}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -9170,7 +9219,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.458,0.458}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -9390,7 +9439,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.646,0.646}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -11748,7 +11797,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.528,0.528}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -12054,7 +12103,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.472,0.472}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -13214,7 +13263,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.632,0.632}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -13324,7 +13373,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.424,0.424}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -13434,7 +13483,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.472,0.472}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -13544,7 +13593,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.500,0.500}</string>
+                    <string>{0.611,0.611}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -13764,7 +13813,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{0.088,0.088}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -14180,7 +14229,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{0.126,0.126}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -14699,7 +14748,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.281,0.281}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -14722,8 +14771,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -14802,7 +14858,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.508,0.508}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -14825,8 +14881,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -15318,7 +15381,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.129,0.129}</string>
+                    <string>{0.103,0.103}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -15409,14 +15472,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{280.000,540.000}</string>
+                    <string>{280.000,550.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.290,0.290}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -15441,6 +15504,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -15512,14 +15580,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,500.000}</string>
+                    <string>{320.000,510.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.312,0.312}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -15544,6 +15612,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -15615,7 +15688,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{240.000,580.000}</string>
+                    <string>{240.000,590.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -15647,6 +15720,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -15718,14 +15796,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{200.000,620.000}</string>
+                    <string>{200.000,630.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.455,0.455}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -15750,6 +15828,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -15821,7 +15904,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{360.000,540.000}</string>
+                    <string>{360.000,550.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -15853,6 +15936,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -15924,14 +16012,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{400.000,580.000}</string>
+                    <string>{400.000,590.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.433,0.433}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -15956,6 +16044,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -16027,14 +16120,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{440.000,620.000}</string>
+                    <string>{440.000,630.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.279,0.279}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -16059,6 +16152,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -16163,6 +16261,11 @@
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
+                </dict>
                 <key>Collision Type</key>
                 <dict>
                     <key>selectedStringValue</key>
@@ -16233,14 +16336,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{480.000,660.000}</string>
+                    <string>{470.000,670.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.345,0.345}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -16265,6 +16368,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -16343,7 +16451,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.334,0.334}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -16368,6 +16476,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -16446,7 +16559,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.499,0.499}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -16471,6 +16584,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -17299,8 +17417,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -17405,6 +17530,11 @@
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
+                </dict>
                 <key>Collision Type</key>
                 <dict>
                     <key>selectedStringValue</key>
@@ -17482,7 +17612,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.260,0.260}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -17505,8 +17635,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -17578,14 +17715,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{199.000,816.000}</string>
+                    <string>{190.000,810.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.301,0.301}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -17610,6 +17747,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -17688,7 +17830,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.488,0.488}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -17713,6 +17855,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -17817,6 +17964,11 @@
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
+                </dict>
                 <key>Collision Type</key>
                 <dict>
                     <key>selectedStringValue</key>
@@ -17894,7 +18046,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.279,0.279}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -17919,6 +18071,11 @@
                     <string>{0.000,-10.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -18023,6 +18180,11 @@
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
+                </dict>
                 <key>Collision Type</key>
                 <dict>
                     <key>selectedStringValue</key>
@@ -18080,109 +18242,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4281</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{277.000,1011.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.400,0.400}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-10.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCharacterCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>600.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>100.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>18</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>4285</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
@@ -18226,8 +18285,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -18306,7 +18372,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.573,0.573}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -18329,8 +18395,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -18409,7 +18482,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.270,0.270}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -18432,8 +18505,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -18512,7 +18592,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.314,0.314}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -18535,8 +18615,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -18638,8 +18725,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -18711,14 +18805,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{358.000,540.000}</string>
+                    <string>{360.000,550.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.303,0.303}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -18741,8 +18835,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -18814,14 +18915,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{319.000,501.000}</string>
+                    <string>{320.000,510.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.400,0.400}</string>
+                    <string>{0.314,0.314}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -18844,8 +18945,15 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-10.000}</string>
+                    <key>variableValue</key>
+                    <string>{0.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Angular Velocity</key>
+                <dict>
+                    <key>variableValue</key>
+                    <string>5.000000</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -23889,7 +23997,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.200,1.200}</string>
+                    <string>{1.500,1.220}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -23999,7 +24107,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.200,1.200}</string>
+                    <string>{1.500,1.200}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -24682,7 +24790,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -25082,7 +25190,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -25211,7 +25319,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.200,1.200}</string>
+                    <string>{1.500,1.200}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -25321,7 +25429,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.200,1.200}</string>
+                    <string>{1.500,1.200}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -25802,7 +25910,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -53371,6 +53479,120 @@
                 </dict>
                 <key>zDepth</key>
                 <string>687</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>14210</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>BlockHalfBlack</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{256.000,1028.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>90.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.400,0.400}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Linear Velocity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.000,0.000}</string>
+                    <key>variableValue</key>
+                    <string>{3.000,0.000}</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>688</string>
             </dict>
         </array>
     </dict>

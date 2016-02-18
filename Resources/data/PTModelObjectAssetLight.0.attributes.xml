@@ -1008,7 +1008,7 @@
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
-                    <string>60.000000</string>
+                    <string>45.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1021,7 +1021,7 @@
                     <key>b</key>
                     <string>255.000000</string>
                     <key>a</key>
-                    <string>64.000000</string>
+                    <string>51.000000</string>
                 </dict>
                 <key>Cast Shadow</key>
                 <dict>
@@ -1046,7 +1046,7 @@
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
-                    <string>60.000000</string>
+                    <string>40.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1059,7 +1059,7 @@
                     <key>b</key>
                     <string>255.000000</string>
                     <key>a</key>
-                    <string>64.000000</string>
+                    <string>51.000000</string>
                 </dict>
                 <key>Cast Shadow</key>
                 <dict>
@@ -1160,7 +1160,7 @@
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
-                    <string>60.000000</string>
+                    <string>40.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1173,7 +1173,7 @@
                     <key>b</key>
                     <string>255.000000</string>
                     <key>a</key>
-                    <string>64.000000</string>
+                    <string>51.000000</string>
                 </dict>
                 <key>Cast Shadow</key>
                 <dict>
@@ -2027,90 +2027,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{580.000,570.000}</string>
+                    <string>{600.000,1110.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
-                    <string>45.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Color</key>
-                <dict>
-                    <key>r</key>
-                    <string>255.000000</string>
-                    <key>g</key>
-                    <string>255.000000</string>
-                    <key>b</key>
-                    <string>255.000000</string>
-                    <key>a</key>
-                    <string>64.000000</string>
-                </dict>
-                <key>Cast Shadow</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>zDepth</key>
-                <string>501</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>16408</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLight</string>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{80.000,1490.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Radius</key>
-                <dict>
-                    <key>value</key>
-                    <string>45.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Color</key>
-                <dict>
-                    <key>r</key>
-                    <string>255.000000</string>
-                    <key>g</key>
-                    <string>255.000000</string>
-                    <key>b</key>
-                    <string>255.000000</string>
-                    <key>a</key>
-                    <string>64.000000</string>
-                </dict>
-                <key>Cast Shadow</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>zDepth</key>
-                <string>502</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>16863</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLight</string>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{580.000,570.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Radius</key>
-                <dict>
-                    <key>value</key>
-                    <string>45.000000</string>
+                    <string>65.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2141,14 +2065,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{80.000,1490.000}</string>
+                    <string>{50.000,1100.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
-                    <string>45.000000</string>
+                    <string>65.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2169,7 +2093,7 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>502</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2212,6 +2136,842 @@
             <dict>
                 <key>id</key>
                 <string>17150</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1050.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>60.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>17769</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,2150.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>60.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18326</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{660.000,660.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>38.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>11</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18432</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{600.000,610.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18440</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{590.000,1530.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18496</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{50.000,590.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18502</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{50.000,1530.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18554</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{550.000,1050.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>70.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18639</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,2150.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>60.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18757</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{70.000,570.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18765</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{80.000,1490.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18896</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,2150.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>60.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>18999</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,2150.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>51.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19140</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,2150.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>51.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19207</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{70.000,570.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19215</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,1550.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19284</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,580.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19289</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1220.000,1010.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>65.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19391</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-610.000,1020.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>65.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>503</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19439</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{550.000,1050.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>70.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19652</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{600.000,610.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19658</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLight</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{590.000,1530.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Radius</key>
+                <dict>
+                    <key>value</key>
+                    <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>64.000000</string>
+                </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>19694</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLight</string>
                 <key>Position</key>
