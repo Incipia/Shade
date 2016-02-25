@@ -216,6 +216,48 @@
                     <string>19838</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>21165</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21167</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21178</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21250</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21252</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21260</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21450</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21452</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>21475</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

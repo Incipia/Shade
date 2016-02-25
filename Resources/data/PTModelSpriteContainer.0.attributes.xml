@@ -702,6 +702,28 @@
                     <string>BlackCircle</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>21347</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlackCircleDefeat</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21448</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>WhiteCircle</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

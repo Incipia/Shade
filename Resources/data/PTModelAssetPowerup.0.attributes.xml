@@ -1124,25 +1124,43 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{45.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Gravity</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Jump Force</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Jump Counter</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Jump Timeout</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Jump From Ground</key>
@@ -1154,10 +1172,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Left Lean Force</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Game Speed Min</key>
@@ -1166,6 +1192,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
@@ -1173,6 +1201,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>230.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
@@ -1180,6 +1210,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.001000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Friction</key>
                 <dict>
@@ -1187,6 +1219,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
@@ -1194,6 +1228,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Velocity Drag</key>
                 <dict>
@@ -1201,6 +1237,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>100.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation Drag</key>
                 <dict>
@@ -1208,15 +1246,25 @@
                     <string>0</string>
                     <key>value</key>
                     <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Bounce Force</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Bounce</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Score Multiplier</key>
@@ -1225,6 +1273,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>0.010000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Air Drag</key>
                 <dict>
@@ -1232,10 +1282,16 @@
                     <string>0</string>
                     <key>value</key>
                     <string>{100.000,100.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Platform Friction</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Game Direction</key>
@@ -1244,6 +1300,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>-90.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
             </dict>
         </array>

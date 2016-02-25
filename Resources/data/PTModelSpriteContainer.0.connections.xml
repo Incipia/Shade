@@ -494,6 +494,22 @@
                     <string>19526</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>21347</string>
+                <key>sprites</key>
+                <array>
+                    <string>21348</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>21448</string>
+                <key>sprites</key>
+                <array>
+                    <string>21449</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

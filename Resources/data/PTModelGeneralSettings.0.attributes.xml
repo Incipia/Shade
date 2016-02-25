@@ -137,12 +137,12 @@
                 <key>Score Multiplier</key>
                 <dict>
                     <key>value</key>
-                    <string>0.010000</string>
+                    <string>0.005000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>19867</string>
+                <string>22847</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
