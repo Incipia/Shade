@@ -871,6 +871,8 @@
                 <dict>
                     <key>value</key>
                     <string>{2.625,1.310}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Autohide</key>
                 <dict>

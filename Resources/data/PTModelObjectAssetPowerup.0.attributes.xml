@@ -5819,11 +5819,15 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,550.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -5923,11 +5927,15 @@
                 <dict>
                     <key>value</key>
                     <string>{280.000,1160.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -6324,11 +6332,15 @@
                 <dict>
                     <key>value</key>
                     <string>{520.000,880.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -6391,6 +6403,384 @@
                 </dict>
                 <key>zDepth</key>
                 <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>22921</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{510.000,1740.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>22930</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,2150.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>5</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>22932</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,400.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>508</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23159</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{130.000,1740.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>15</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23303</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{420.000,1300.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>12</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23305</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{220.000,1300.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>13</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23320</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,210.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23419</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1760.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23436</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{290.000,1590.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23454</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{190.000,930.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>26</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23624</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{570.000,410.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24108</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,600.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24134</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{310.000,1000.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24146</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{310.000,1400.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.100,0.100}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>9</string>
             </dict>
         </array>
     </dict>

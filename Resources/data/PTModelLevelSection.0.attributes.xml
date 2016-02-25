@@ -350,7 +350,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E1a</string>
+                    <string>1a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -388,7 +388,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E1a2</string>
+                    <string>1b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -419,7 +419,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E2a</string>
+                    <string>2a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -450,7 +450,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E2b</string>
+                    <string>2b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -481,7 +481,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E3</string>
+                    <string>3</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -519,7 +519,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E4a</string>
+                    <string>4a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -550,7 +550,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E4b</string>
+                    <string>4b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -581,7 +581,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E5a</string>
+                    <string>5a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -612,7 +612,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E5b</string>
+                    <string>5b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -643,7 +643,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E6</string>
+                    <string>6</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -674,7 +674,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E7</string>
+                    <string>7</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -705,7 +705,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E8</string>
+                    <string>8</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -736,7 +736,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E9</string>
+                    <string>9</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -767,17 +767,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E10</string>
+                    <string>10</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -794,17 +798,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E11</string>
+                    <string>11</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -821,17 +829,114 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>E12</string>
+                    <string>12</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>22913</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>13</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23181</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>14</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23429</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>15</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -848,7 +953,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M1a</string>
+                    <string>16</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -886,7 +991,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M2a</string>
+                    <string>17</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -917,7 +1022,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M2c</string>
+                    <string>17b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -948,7 +1053,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M3a</string>
+                    <string>18</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -979,7 +1084,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M4a</string>
+                    <string>19a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1010,7 +1115,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M4b</string>
+                    <string>19b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1041,7 +1146,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M5</string>
+                    <string>20</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1072,7 +1177,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M6</string>
+                    <string>21</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1103,7 +1208,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M7</string>
+                    <string>22</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1134,7 +1239,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M8</string>
+                    <string>23</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1165,17 +1270,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M9</string>
+                    <string>24</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1192,17 +1301,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M10</string>
+                    <string>25</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1219,17 +1332,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M11</string>
+                    <string>26</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1246,17 +1363,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M12</string>
+                    <string>27</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1273,17 +1394,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>M13</string>
+                    <string>28</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
                     <string>6000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1300,12 +1425,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H1a</string>
+                    <string>29a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17572.000000</string>
+                    <string>6068.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1338,12 +1463,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H1b</string>
+                    <string>29b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>6068.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1369,12 +1494,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H1c</string>
+                    <string>29c</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17509.000000</string>
+                    <string>6124.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1400,12 +1525,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H1d</string>
+                    <string>29d</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>6124.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1431,12 +1556,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H2a</string>
+                    <string>30a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>6124.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1462,12 +1587,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H2b</string>
+                    <string>30b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17477.000000</string>
+                    <string>6180.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1493,12 +1618,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H3a</string>
+                    <string>31a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>6236.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1531,12 +1656,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H3b</string>
+                    <string>31b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>6124.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1562,12 +1687,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H4a</string>
+                    <string>32a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17477.000000</string>
+                    <string>6180.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1593,12 +1718,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H4b</string>
+                    <string>32b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17351.000000</string>
+                    <string>6124.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1624,12 +1749,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H5a</string>
+                    <string>33a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17382.000000</string>
+                    <string>6124.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1662,12 +1787,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H5b</string>
+                    <string>33b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17382.000000</string>
+                    <string>6068.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1693,12 +1818,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H6a</string>
+                    <string>34a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>6124.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1724,12 +1849,12 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H6b</string>
+                    <string>34b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>5899.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1755,17 +1880,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H7</string>
+                    <string>35</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>5899.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1782,17 +1911,21 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H8</string>
+                    <string>36</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>5899.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1809,17 +1942,52 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>H9</string>
+                    <string>37</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>17445.000000</string>
+                    <string>5955.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>23742</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>38</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>5899.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -1836,7 +2004,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>I1a</string>
+                    <string>Hard1a</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1867,7 +2035,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>I1b</string>
+                    <string>Hard1b</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -1900,10 +2068,15 @@
                     <key>value</key>
                     <string>StartUnderlay</string>
                 </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>6000.000000</string>
+                </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>6050.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

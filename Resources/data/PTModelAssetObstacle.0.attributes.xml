@@ -638,6 +638,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
             </dict>
             <dict>
@@ -676,6 +678,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
             </dict>
             <dict>
@@ -714,6 +718,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
             </dict>
         </array>
