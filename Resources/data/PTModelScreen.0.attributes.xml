@@ -158,7 +158,7 @@
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kAdMob</string>
+                    <string>kNoAds</string>
                 </dict>
                 <key>Ad Interstitials Freq.</key>
                 <dict>
@@ -192,7 +192,7 @@
                 <key>Ad Interstitial</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kAdMob</string>
+                    <string>kNoAds</string>
                 </dict>
                 <key>Ad Banner</key>
                 <dict>

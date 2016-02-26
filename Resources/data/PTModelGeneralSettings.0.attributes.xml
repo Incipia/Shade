@@ -18,12 +18,12 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.9</string>
+                    <string>0.11</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Shade</string>
+                    <string>SHADE</string>
                 </dict>
                 <key>Comments</key>
                 <dict>
@@ -142,25 +142,25 @@
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>24246</string>
+                <string>26121</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
                         <key>iAds</key>
                         <string>0</string>
-                        <key>adMobInterstitial</key>
-                        <string>ca-app-pub-4460620643565339/3121346209</string>
                         <key>bannersOrder</key>
                         <string>kAdMob</string>
                         <key>interstitialsOrder</key>
                         <string>kAdMob</string>
                         <key>adMobBanner</key>
-                        <string>ca-app-pub-4460620643565339/3121346209</string>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string></string>
                         <key>bundleID</key>
                         <string>com.Incipia.Shade</string>
                         <key>nameOnDevice</key>
-                        <string>Shade</string>
+                        <string>SHADE</string>
                         <key>shareMessageTemplate</key>
                         <string></string>
                         <key>reviewLink</key>

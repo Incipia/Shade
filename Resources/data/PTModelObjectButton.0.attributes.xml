@@ -228,14 +228,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{520.000,1090.000}</string>
+                    <string>{520.000,1070.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.700}</string>
+                    <string>{0.300,0.300}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -342,14 +342,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{120.000,1090.000}</string>
+                    <string>{110.000,1070.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.700}</string>
+                    <string>{0.400,0.400}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -399,14 +399,14 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,1090.000}</string>
+                    <string>{320.000,1070.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.700}</string>
+                    <string>{0.400,0.400}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -540,7 +540,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>SoundOff</string>
+                    <string>SoundOn</string>
                 </dict>
                 <key>Position</key>
                 <dict>
@@ -563,31 +563,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>11112</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Untitled</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,568.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kRestartButton</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1000</string>
             </dict>
             <dict>
                 <key>id</key>
