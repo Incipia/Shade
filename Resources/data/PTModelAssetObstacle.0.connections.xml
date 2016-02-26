@@ -7,15 +7,6 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>639</string>
-                <key>Idle Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>641</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>811</string>
                 <key>Idle Animation</key>
                 <dict>

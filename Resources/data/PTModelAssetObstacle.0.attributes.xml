@@ -7,34 +7,6 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>639</string>
-                <key>className</key>
-                <string>PTModelAssetObstacle</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>TriangleTrail</string>
-                </dict>
-                <key>Collision Shape</key>
-                <dict>
-                    <key>id</key>
-                    <string>640</string>
-                    <key>className</key>
-                    <string>PTModelPolygon</string>
-                    <key>points</key>
-                    <array>
-                        <string>{0.000000,-62.000000}</string>
-                        <string>{73.000000,63.000000}</string>
-                        <string>{-70.000000,63.000000}</string>
-                    </array>
-                    <key>oneWayCollisionVector</key>
-                    <string>{0.000000,0.000000}</string>
-                    <key>shapeType</key>
-                    <string>1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>811</string>
                 <key>className</key>
                 <string>PTModelAssetObstacle</string>

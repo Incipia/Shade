@@ -47,7 +47,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -74,7 +74,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -101,7 +101,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -111,7 +111,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -128,7 +128,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -182,7 +182,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -209,7 +209,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -344,7 +344,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -371,7 +371,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -452,7 +452,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -479,7 +479,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -560,7 +560,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -587,7 +587,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -614,7 +614,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -641,7 +641,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -668,7 +668,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -695,7 +695,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -722,7 +722,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -749,7 +749,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -803,7 +803,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -830,7 +830,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -857,7 +857,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -884,7 +884,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -911,7 +911,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -938,7 +938,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -992,7 +992,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1019,7 +1019,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1046,7 +1046,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1073,7 +1073,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1100,7 +1100,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1154,7 +1154,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1181,7 +1181,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1289,7 +1289,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1316,7 +1316,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1397,7 +1397,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1424,7 +1424,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1451,7 +1451,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1478,7 +1478,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1667,7 +1667,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1694,7 +1694,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1721,7 +1721,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1748,7 +1748,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1775,7 +1775,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1802,7 +1802,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1812,7 +1812,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>507</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1829,7 +1829,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1856,7 +1856,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1937,7 +1937,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1964,7 +1964,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1991,7 +1991,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2018,7 +2018,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2045,7 +2045,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2072,7 +2072,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2099,7 +2099,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2126,7 +2126,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2153,7 +2153,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2180,7 +2180,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2207,7 +2207,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2342,7 +2342,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2369,7 +2369,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2396,7 +2396,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2423,7 +2423,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2450,7 +2450,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2477,7 +2477,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2504,7 +2504,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2531,7 +2531,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2558,7 +2558,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2585,7 +2585,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2612,7 +2612,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2639,7 +2639,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2666,7 +2666,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2693,7 +2693,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2720,7 +2720,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2774,7 +2774,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2801,7 +2801,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2828,7 +2828,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2855,7 +2855,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2882,7 +2882,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2909,7 +2909,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2936,7 +2936,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2963,7 +2963,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3017,7 +3017,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3044,7 +3044,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3071,7 +3071,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3098,7 +3098,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3125,7 +3125,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3152,7 +3152,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3179,7 +3179,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3206,7 +3206,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3233,7 +3233,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3260,7 +3260,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3287,7 +3287,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3314,7 +3314,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3341,7 +3341,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3368,7 +3368,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3395,7 +3395,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3422,7 +3422,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3476,7 +3476,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3503,7 +3503,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3530,7 +3530,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3557,7 +3557,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3584,7 +3584,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3611,7 +3611,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3665,7 +3665,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3692,7 +3692,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3719,7 +3719,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3746,7 +3746,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3908,7 +3908,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3935,7 +3935,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3962,7 +3962,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3989,7 +3989,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4016,7 +4016,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4043,7 +4043,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4070,7 +4070,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4097,7 +4097,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4124,7 +4124,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4151,7 +4151,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4178,7 +4178,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4232,7 +4232,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4286,7 +4286,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4313,7 +4313,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4421,7 +4421,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4448,7 +4448,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4475,7 +4475,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4502,7 +4502,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4529,7 +4529,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4583,7 +4583,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4610,7 +4610,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4637,7 +4637,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4664,7 +4664,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4745,7 +4745,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4772,7 +4772,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4880,7 +4880,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4907,7 +4907,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4961,7 +4961,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -4988,7 +4988,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5015,7 +5015,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5042,7 +5042,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5069,7 +5069,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5096,7 +5096,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5123,7 +5123,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5150,7 +5150,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5177,7 +5177,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5231,7 +5231,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5258,7 +5258,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5285,7 +5285,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5312,7 +5312,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5339,7 +5339,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5366,7 +5366,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5393,7 +5393,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5420,7 +5420,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5447,7 +5447,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5501,7 +5501,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5528,7 +5528,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5555,7 +5555,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5582,7 +5582,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5609,7 +5609,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5636,7 +5636,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5663,7 +5663,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5690,7 +5690,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5717,7 +5717,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5744,7 +5744,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5771,7 +5771,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5798,7 +5798,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5825,7 +5825,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5852,7 +5852,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5879,7 +5879,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5906,7 +5906,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -5933,7 +5933,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6176,7 +6176,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6203,7 +6203,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6230,7 +6230,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6257,7 +6257,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6284,7 +6284,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6311,7 +6311,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6338,7 +6338,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6365,7 +6365,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6392,7 +6392,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6419,7 +6419,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6473,7 +6473,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6500,7 +6500,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6527,7 +6527,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6554,7 +6554,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6581,7 +6581,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6608,7 +6608,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6635,7 +6635,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6662,7 +6662,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6689,7 +6689,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6716,7 +6716,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6743,7 +6743,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6770,7 +6770,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.100,0.100}</string>
+                    <string>{1.000,1.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -6781,6 +6781,282 @@
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24252</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{500.000,580.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24265</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1610.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24355</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{250.000,1000.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>12</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24365</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,400.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24366</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1610.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24470</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,580.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24471</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{120.000,1830.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24570</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,440.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24571</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{120.000,1830.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24895</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{210.000,1420.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>5</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>24898</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{460.000,1420.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>4</string>
             </dict>
         </array>
     </dict>
