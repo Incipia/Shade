@@ -1053,6 +1053,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0620;
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						DevelopmentTeam = 49BYD5B64K;
+					};
+				};
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PTPlayer" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1130,6 +1135,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/libs/ads/**",
@@ -1166,7 +1172,13 @@
 					"$(PROJECT_DIR)/libs/ads/**",
 					"$(PROJECT_DIR)/libs/ads/PTAdHeyzap",
 				);
-				OTHER_LDFLAGS = ("-ObjC", "-framework GoogleMobileAds", "-framework AdSupport" );
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					GoogleMobileAds,
+					"-framework",
+					AdSupport,
+				);
 				PRODUCT_NAME = PZPlayer;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1186,6 +1198,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
 				COPY_PHASE_STRIP = YES;
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/libs/ads/**",
@@ -1220,7 +1233,13 @@
 					"$(PROJECT_DIR)/libs/ads/**",
 					"$(PROJECT_DIR)/libs/ads/PTAdHeyzap",
 				);
-				OTHER_LDFLAGS = ("-ObjC", "-framework GoogleMobileAds", "-framework AdSupport" );
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					GoogleMobileAds,
+					"-framework",
+					AdSupport,
+				);
 				PRODUCT_NAME = PZPlayer;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
