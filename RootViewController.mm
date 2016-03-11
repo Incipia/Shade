@@ -5,37 +5,6 @@
 
 @implementation RootViewController
 
-
--(void)removeAd{
-//    [[Neocortex getInstance] removeBannerAd];
-}
-
--(void)initAd{
-
-//    [[Neocortex getInstance] showBannerAd];
-    
-}
-- (void)bannerView:(ADBannerView *)banner didFailToReceiveAdWithError:(NSError *)error{
-    NSLog(@"iad banner load error: %@", [error description]);
-}
-
-- (void)bannerViewDidLoadAd:(ADBannerView *)banner{
-    banner.hidden = NO;
-}
-
-- (BOOL)bannerViewActionShouldBegin:(ADBannerView *)banner willLeaveApplication:(BOOL)willLeave{
-    cocos2d::CCDirector::sharedDirector()->pause();    
-//    CocosDenshion::SimpleAudioEngine::sharedEngine()->pauseBackgroundMusic();
-
-    return YES;
-}
-
-- (void)bannerViewActionDidFinish:(ADBannerView *)banner{
-    cocos2d::CCDirector::sharedDirector()->resume();
-//    CocosDenshion::SimpleAudioEngine::sharedEngine()->resumeBackgroundMusic();
-}
-
-
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     PTModelGeneralSettings *generalSettings = PTModelGeneralSettings::shared();
     if(generalSettings->orientation() == PTPScreenOrientationLandscape){    

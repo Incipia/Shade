@@ -24,16 +24,9 @@
  ****************************************************************************/
 
 #import <UIKit/UIKit.h>
-#import "iAd/ADBannerView.h"
 
-
-@interface RootViewController : UIViewController <ADBannerViewDelegate> {
-
-    ADBannerView *adView;
+@interface RootViewController : UIViewController  {
     
 }
-
--(void)initAd;
--(void)removeAd;
 
 @end

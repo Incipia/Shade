@@ -18,7 +18,7 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.11</string>
+                    <string>0.12</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
@@ -142,7 +142,7 @@
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>26121</string>
+                <string>26249</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -173,6 +173,12 @@
                     </dict>
                     <key>Google Play Store</key>
                     <dict>
+                        <key>bundleID</key>
+                        <string>com.Incipia.Shade</string>
+                        <key>nameOnDevice</key>
+                        <string>SHADE</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
                         <key>reviewLink</key>
                         <string></string>
                     </dict>
@@ -202,7 +208,7 @@
                 <key>objectFrameRect</key>
                 <string>{{0.0000,0.0000},{1.0000,1.0000}}</string>
                 <key>_ibVersion</key>
-                <string>1.3.5</string>
+                <string>1.3.6</string>
                 <key>t</key>
                 <string>1</string>
                 <key>orientation</key>
