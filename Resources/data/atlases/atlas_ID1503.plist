@@ -31,10 +31,23 @@
                 <key>sourceSize</key>
                 <string>{1024, 1024}</string>
             </dict>
+            <key>PTModelSprite_ID26817</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 1004}, {500, 500}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {500, 500}}</string>
+                <key>sourceSize</key>
+                <string>{500, 500}</string>
+            </dict>
             <key>PTModelSprite_ID17980</key>
             <dict>
                 <key>frame</key>
-                <string>{{0, 1004}, {1975, 418}}</string>
+                <string>{{0, 1508}, {1975, 418}}</string>
                 <key>offset</key>
                 <string>{-2, 6}</string>
                 <key>rotated</key>

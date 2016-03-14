@@ -545,17 +545,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>24903</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>1Coin1</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>24916</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -563,17 +552,6 @@
                 <dict>
                     <key>value</key>
                     <string>3Coin4</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>24958</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>1Coin4</string>
                 </dict>
             </dict>
             <dict>
@@ -618,6 +596,127 @@
                 <dict>
                     <key>value</key>
                     <string>TrailNew</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>26488</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>3CoinPurple</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>26816</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Circle</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>26900</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player6</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27571</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1CoinPurple</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27604</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1Coin4</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27802</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1Coin41</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27807</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1Coin4</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27818</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1Coin41</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27831</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>1Coin41</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29794</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player7Defeat</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>30540</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player7</string>
                 </dict>
             </dict>
         </array>

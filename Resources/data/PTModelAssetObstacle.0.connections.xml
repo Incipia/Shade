@@ -249,6 +249,33 @@
                     <string>21475</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>27543</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27545</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>27607</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>27609</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29796</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29798</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

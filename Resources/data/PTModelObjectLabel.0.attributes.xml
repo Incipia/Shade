@@ -7,55 +7,6 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>753</string>
-                <key>className</key>
-                <string>PTModelObjectLabel</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Default Font</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{530.000,1060.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kScoreVector</string>
-                </dict>
-                <key>Alignment</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCCTextAlignmentRight</string>
-                </dict>
-                <key>Text</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>zDepth</key>
-                <string>5</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>8405</string>
                 <key>className</key>
                 <string>PTModelObjectLabel</string>
@@ -81,7 +32,7 @@
                 <key>Action</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kBestScoreVector</string>
+                    <string>kBestCoinsSessionVector</string>
                 </dict>
                 <key>Alignment</key>
                 <dict>
@@ -132,7 +83,7 @@
                 <key>Action</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kScoreVector</string>
+                    <string>kCoinsSessionVector</string>
                 </dict>
                 <key>Alignment</key>
                 <dict>
@@ -200,7 +151,7 @@
                 <key>zDepth</key>
                 <string>4</string>
                 <key>calculatedSize</key>
-                <string>{141.000,82.000}</string>
+                <string>{142.000,82.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -297,7 +248,7 @@
                 <key>zDepth</key>
                 <string>6</string>
                 <key>calculatedSize</key>
-                <string>{228.000,82.000}</string>
+                <string>{229.000,82.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -394,7 +345,56 @@
                 <key>zDepth</key>
                 <string>3</string>
                 <key>calculatedSize</key>
-                <string>{416.000,82.000}</string>
+                <string>{414.000,82.000}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29583</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Avenir</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{550.000,1060.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCoinsSessionVector</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentRight</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Tracking</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>9</string>
             </dict>
         </array>
     </dict>

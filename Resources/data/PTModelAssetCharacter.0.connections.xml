@@ -80,6 +80,34 @@
                     <string>16542</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>26902</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>26904</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>26918</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29722</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29724</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>29785</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

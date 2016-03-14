@@ -18,7 +18,7 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.12</string>
+                    <string>0.13</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
@@ -142,7 +142,7 @@
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>26249</string>
+                <string>32024</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -194,7 +194,7 @@
                     </dict>
                 </dict>
                 <key>scoreType</key>
-                <string>Coins</string>
+                <string>Distance</string>
                 <key>shareScreen</key>
                 <string>Game Over Screen</string>
                 <key>objectFrameEdgeState_0</key>

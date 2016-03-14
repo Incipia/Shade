@@ -45,11 +45,11 @@
                 <key>Stroke Color</key>
                 <dict>
                     <key>r</key>
-                    <string>255.000000</string>
+                    <string>0.000000</string>
                     <key>g</key>
-                    <string>255.000000</string>
+                    <string>0.000000</string>
                     <key>b</key>
-                    <string>255.000000</string>
+                    <string>0.000000</string>
                     <key>a</key>
                     <string>255.000000</string>
                 </dict>
@@ -63,6 +63,11 @@
                     <string>0.000000</string>
                     <key>a</key>
                     <string>125.000000</string>
+                </dict>
+                <key>Draw Stroke</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Draw Gradient</key>
                 <dict>

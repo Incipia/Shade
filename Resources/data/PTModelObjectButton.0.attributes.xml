@@ -302,7 +302,7 @@
                     <string>kPauseButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -591,31 +591,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>11118</string>
-                <key>className</key>
-                <string>PTModelObjectButton</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>ContinueGame</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,512.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kContinueButton</string>
-                </dict>
-                <key>zDepth</key>
-                <string>2</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>18001</string>
                 <key>className</key>
                 <string>PTModelObjectButton</string>
@@ -638,6 +613,113 @@
                 </dict>
                 <key>zDepth</key>
                 <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29533</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{128.791,914.744}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kRestartButton</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29535</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{110.000,1060.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.800,0.800}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPauseButton</string>
+                </dict>
+                <key>zDepth</key>
+                <string>5</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>29608</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{305.465,795.860}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kRestartButton</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11118</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ContinueGame</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,512.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kContinueButton</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
             </dict>
         </array>
     </dict>
