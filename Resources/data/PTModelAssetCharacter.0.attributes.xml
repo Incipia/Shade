@@ -39,7 +39,7 @@
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
+                    <string>0.750000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -60,7 +60,7 @@
                 <key>Fall Attribute</key>
                 <dict>
                     <key>value</key>
-                    <string>10.000000</string>
+                    <string>0.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -99,7 +99,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Green</string>
+                    <string>Player2</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -126,7 +126,7 @@
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
+                    <string>0.750000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -147,7 +147,7 @@
                 <key>Fall Attribute</key>
                 <dict>
                     <key>value</key>
-                    <string>10.000000</string>
+                    <string>0.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -184,7 +184,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Orange</string>
+                    <string>Player3</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -216,7 +216,7 @@
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
+                    <string>0.750000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -235,97 +235,9 @@
                     <string>0</string>
                 </dict>
                 <key>Fall Attribute</key>
-                <dict>
-                    <key>value</key>
-                    <string>10.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Purchase Method</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
-                </dict>
-                <key>Price</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Store Identifier</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Ad Network</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kHeyzap</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>15471</string>
-                <key>className</key>
-                <string>PTModelAssetCharacter</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Purple</string>
-                </dict>
-                <key>Collision Shape</key>
-                <dict>
-                    <key>id</key>
-                    <string>15472</string>
-                    <key>className</key>
-                    <string>PTModelPolygon</string>
-                    <key>points</key>
-                    <array>
-                        <string>{-1.000000,-41.000000}</string>
-                        <string>{39.000000,-14.000000}</string>
-                        <string>{39.500000,19.000000}</string>
-                        <string>{0.750000,39.500000}</string>
-                        <string>{-40.000000,19.000000}</string>
-                        <string>{-40.000000,-12.000000}</string>
-                    </array>
-                    <key>oneWayCollisionVector</key>
-                    <string>{0.000000,0.000000}</string>
-                    <key>shapeType</key>
-                    <string>1</string>
-                </dict>
-                <key>Auto Tilt</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Game Over Delay</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.500000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Camera Shake</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.300000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>value</key>
-                    <string>10.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -362,7 +274,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Yellow</string>
+                    <string>Player5</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -392,7 +304,7 @@
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
+                    <string>0.750000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -450,7 +362,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>BlackNWhite</string>
+                    <string>Player6</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -480,7 +392,7 @@
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
+                    <string>0.750000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -538,7 +450,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Fist</string>
+                    <string>Player7</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -567,7 +479,7 @@
                 <key>Game Over Delay</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
+                    <string>0.750000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

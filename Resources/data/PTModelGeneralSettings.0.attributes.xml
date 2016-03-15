@@ -18,7 +18,7 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.13</string>
+                    <string>0.14</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
@@ -142,7 +142,7 @@
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>32024</string>
+                <string>33963</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>

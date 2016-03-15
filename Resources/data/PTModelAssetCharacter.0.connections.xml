@@ -54,20 +54,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>15471</string>
-                <key>Default Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>15473</string>
-                </dict>
-                <key>Defeated Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>15532</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>16499</string>
                 <key>Default Animation</key>
                 <dict>

@@ -151,7 +151,7 @@
                 <key>zDepth</key>
                 <string>4</string>
                 <key>calculatedSize</key>
-                <string>{142.000,82.000}</string>
+                <string>{143.000,83.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -248,7 +248,7 @@
                 <key>zDepth</key>
                 <string>6</string>
                 <key>calculatedSize</key>
-                <string>{229.000,82.000}</string>
+                <string>{230.000,83.000}</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -294,58 +294,7 @@
                 <key>zDepth</key>
                 <string>5</string>
                 <key>calculatedSize</key>
-                <string>{197.000,82.000}</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>11067</string>
-                <key>className</key>
-                <string>PTModelObjectLabel</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Avenir</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,50.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.500,0.500}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Action</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kCustomVector</string>
-                </dict>
-                <key>Alignment</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kCCTextAlignmentLeft</string>
-                </dict>
-                <key>Text</key>
-                <dict>
-                    <key>value</key>
-                    <string>Swipe to Select</string>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>zDepth</key>
-                <string>3</string>
-                <key>calculatedSize</key>
-                <string>{414.000,82.000}</string>
+                <string>{198.000,83.000}</string>
             </dict>
             <dict>
                 <key>id</key>
