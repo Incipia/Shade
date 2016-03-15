@@ -2475,11 +2475,15 @@
                 <dict>
                     <key>value</key>
                     <string>5899.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -2496,7 +2500,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Hard1a</string>
+                    <string>55</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -2527,7 +2531,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Hard1b</string>
+                    <string>56</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>
@@ -2558,7 +2562,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Test</string>
+                    <string>Basic</string>
                 </dict>
                 <key>Start Distance</key>
                 <dict>

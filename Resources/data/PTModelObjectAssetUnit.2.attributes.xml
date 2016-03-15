@@ -36092,11 +36092,15 @@
                 <dict>
                     <key>value</key>
                     <string>{50.000,590.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{3.012,3.012}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36132,6 +36136,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36142,10 +36150,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36174,11 +36190,15 @@
                 <dict>
                     <key>value</key>
                     <string>{590.000,590.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{3.012,3.012}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36214,6 +36234,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36224,10 +36248,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36256,16 +36288,22 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1020.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.654,1.654}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36301,6 +36339,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36311,10 +36353,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36343,16 +36393,22 @@
                 <dict>
                     <key>value</key>
                     <string>{44.000,741.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{2.211,2.211}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36388,6 +36444,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36398,10 +36458,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36430,16 +36498,22 @@
                 <dict>
                     <key>value</key>
                     <string>{596.000,741.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{2.211,2.211}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36475,6 +36549,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36485,10 +36563,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36608,16 +36694,22 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1184.447}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.654,1.654}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36653,6 +36745,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36663,10 +36759,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36695,16 +36799,22 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1513.340}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.654,1.654}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36740,6 +36850,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36750,10 +36864,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36782,16 +36904,22 @@
                 <dict>
                     <key>value</key>
                     <string>{40.000,1350.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.654,1.654}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36827,6 +36955,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36837,10 +36969,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36869,16 +37009,22 @@
                 <dict>
                     <key>value</key>
                     <string>{600.000,1350.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.654,1.654}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -36914,6 +37060,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -36924,10 +37074,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -36956,16 +37114,22 @@
                 <dict>
                     <key>value</key>
                     <string>{40.000,1678.894}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.654,1.654}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -37001,6 +37165,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -37011,10 +37179,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -37043,16 +37219,22 @@
                 <dict>
                     <key>value</key>
                     <string>{600.000,1678.894}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.654,1.654}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -37088,6 +37270,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -37098,10 +37284,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -37312,16 +37506,22 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,210.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Rotation</key>
                 <dict>
                     <key>value</key>
                     <string>45.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.490,0.490}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -37342,6 +37542,8 @@
                 <dict>
                     <key>value</key>
                     <string>3.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -37362,6 +37564,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -37372,10 +37578,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -37691,11 +37905,15 @@
                 <dict>
                     <key>value</key>
                     <string>{610.000,510.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.598,0.598}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -37733,6 +37951,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -37743,10 +37963,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -37775,11 +38003,15 @@
                 <dict>
                     <key>value</key>
                     <string>{210.000,780.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.150,0.150}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -37817,6 +38049,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -37827,10 +38061,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -37950,11 +38192,15 @@
                 <dict>
                     <key>value</key>
                     <string>{50.000,1010.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.150,0.150}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -37992,6 +38238,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -38002,10 +38250,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -38034,11 +38290,15 @@
                 <dict>
                     <key>value</key>
                     <string>{380.000,1140.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.295,0.295}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -38076,6 +38336,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -38086,10 +38348,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -38300,11 +38570,15 @@
                 <dict>
                     <key>value</key>
                     <string>{10.000,1580.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.598,0.598}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -38342,6 +38616,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -38352,10 +38628,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -38384,11 +38668,15 @@
                 <dict>
                     <key>value</key>
                     <string>{430.000,1410.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.052,0.052}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -38426,6 +38714,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -38436,10 +38726,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -38468,11 +38766,15 @@
                 <dict>
                     <key>value</key>
                     <string>{600.000,1350.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.092,0.092}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -38510,6 +38812,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -38520,10 +38824,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -38552,11 +38864,15 @@
                 <dict>
                     <key>value</key>
                     <string>{290.000,1630.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.139,0.139}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -38594,6 +38910,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -38604,10 +38922,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -38727,11 +39053,15 @@
                 <dict>
                     <key>value</key>
                     <string>{470.000,1780.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.039,0.039}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -38769,6 +39099,8 @@
                     <string>0</string>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -38779,10 +39111,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
