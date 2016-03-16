@@ -66,6 +66,11 @@
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
+                <key>Loop Music</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Background Scene</key>
                 <dict>
                     <key>selectedStringValue</key>

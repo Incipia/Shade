@@ -42313,7 +42313,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>502</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -42411,7 +42411,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -42428,7 +42428,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{160.000,760.000}</string>
+                    <string>{240.000,760.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -42519,7 +42519,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,760.000}</string>
+                    <string>{400.000,760.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

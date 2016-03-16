@@ -80,17 +80,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>2543</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>2662</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -208,50 +197,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>10511</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>RemoveAds</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>10517</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Sound</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>10555</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Leaders</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>10565</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>SoundOn</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>10759</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -259,17 +204,6 @@
                 <dict>
                     <key>value</key>
                     <string>SHADEwhite</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>10811</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>ControlExplanations</string>
                 </dict>
             </dict>
             <dict>
@@ -358,17 +292,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>17890</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>RestartButton</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>17979</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -420,17 +343,6 @@
                 <dict>
                     <key>value</key>
                     <string>Home</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>24798</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Rate2</string>
                 </dict>
             </dict>
             <dict>
@@ -607,6 +519,94 @@
                 <dict>
                     <key>value</key>
                     <string>BlueTriangle</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35253</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>RestartButton2</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35422</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ControlExplanations</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35460</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>TurnSoundOn</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35466</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>TurnSoundOff</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35488</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>LeaderBoardIcon</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35880</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Rate</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35996</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>RestartButton</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>36386</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Info</string>
                 </dict>
             </dict>
         </array>

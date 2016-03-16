@@ -343,7 +343,90 @@
                     <string>1</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35764</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Avenir</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,450.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Remove Ads</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+                <key>calculatedSize</key>
+                <string>{339.000,83.000}</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35766</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Avenir</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,240.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Restore Purchases</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+                <key>calculatedSize</key>
+                <string>{485.000,83.000}</string>
             </dict>
         </array>
     </dict>

@@ -59,9 +59,9 @@
                     <string>PTModelPolygon</string>
                     <key>points</key>
                     <array>
-                        <string>{1.000000,-180.000000}</string>
-                        <string>{250.000000,251.000000}</string>
-                        <string>{-250.000000,251.000000}</string>
+                        <string>{0.000000,-177.000000}</string>
+                        <string>{246.000000,249.000000}</string>
+                        <string>{-246.000000,248.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -94,9 +94,9 @@
                     <string>PTModelPolygon</string>
                     <key>points</key>
                     <array>
-                        <string>{-1.000000,-213.000000}</string>
-                        <string>{250.000000,216.000000}</string>
-                        <string>{-250.000000,216.000000}</string>
+                        <string>{0.000000,-176.000000}</string>
+                        <string>{246.000000,248.000000}</string>
+                        <string>{-246.000000,249.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -597,7 +597,7 @@
                     <key>points</key>
                     <array>
                         <string>{0.000000,0.000000}</string>
-                        <string>{23.200001,0.000000}</string>
+                        <string>{24.200001,0.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -638,7 +638,7 @@
                     <key>points</key>
                     <array>
                         <string>{0.000000,0.000000}</string>
-                        <string>{23.200001,0.000000}</string>
+                        <string>{24.200001,0.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>

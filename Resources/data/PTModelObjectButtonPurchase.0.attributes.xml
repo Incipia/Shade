@@ -7,26 +7,31 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>10515</string>
+                <string>35812</string>
                 <key>className</key>
                 <string>PTModelObjectButtonPurchase</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>RemoveAds</string>
+                    <string>Remove Ads</string>
                 </dict>
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,1090.000}</string>
+                    <string>{320.000,450.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.650,0.700}</string>
+                    <string>{2.800,0.400}</string>
                     <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
                     <string>0</string>
                 </dict>
                 <key>Powerup Selection</key>
@@ -34,7 +39,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>selectedStringValue</key>
-                    <string>712</string>
+                    <string>2416</string>
                 </dict>
                 <key>Type</key>
                 <dict>
@@ -82,7 +87,7 @@
                     <string>kHeyzap</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>1</string>
             </dict>
         </array>
     </dict>

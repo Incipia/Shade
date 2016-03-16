@@ -7,12 +7,16 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>35812</string>
-                <key>Image</key>
+                <string>36277</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>496</string>
+                    <string>Stratus.09.22.15.1.NG.Mstr2.mp3</string>
                 </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
             </dict>
         </array>
     </dict>

@@ -44,6 +44,45 @@
                 <key>sourceSize</key>
                 <string>{2000, 801}</string>
             </dict>
+            <key>PTModelSprite_ID35467</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 1426}, {206, 206}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {206, 206}}</string>
+                <key>sourceSize</key>
+                <string>{206, 206}</string>
+            </dict>
+            <key>PTModelSprite_ID35461</key>
+            <dict>
+                <key>frame</key>
+                <string>{{210, 1426}, {206, 206}}</string>
+                <key>offset</key>
+                <string>{0, -0}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {206, 206}}</string>
+                <key>sourceSize</key>
+                <string>{206, 206}</string>
+            </dict>
+            <key>PTModelSprite_ID35423</key>
+            <dict>
+                <key>frame</key>
+                <string>{{420, 1426}, {925, 41}}</string>
+                <key>offset</key>
+                <string>{-8, -6}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{29, 86}, {925, 41}}</string>
+                <key>sourceSize</key>
+                <string>{1000, 200}</string>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
