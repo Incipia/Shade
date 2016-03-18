@@ -76,8 +76,8 @@
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
-                    <key>visible</key>
-                    <string>0</string>
+                    <key>value</key>
+                    <string>Shade.Remove.Ads</string>
                 </dict>
                 <key>Ad Network</key>
                 <dict>

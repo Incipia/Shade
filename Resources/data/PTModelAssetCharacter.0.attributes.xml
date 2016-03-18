@@ -18,13 +18,13 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>545</string>
+                    <string>37808</string>
                     <key>className</key>
                     <string>PTModelCircle</string>
                     <key>points</key>
                     <array>
                         <string>{0.000000,0.000000}</string>
-                        <string>{39.799999,0.000000}</string>
+                        <string>{39.799999,1.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -104,19 +104,18 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>8731</string>
+                    <string>37810</string>
                     <key>className</key>
-                    <string>PTModelPolygon</string>
+                    <string>PTModelCircle</string>
                     <key>points</key>
                     <array>
-                        <string>{1.187500,-57.437500}</string>
-                        <string>{51.000000,29.000000}</string>
-                        <string>{-51.000000,30.000000}</string>
+                        <string>{2.500000,-3.000000}</string>
+                        <string>{43.099998,-3.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>1</string>
+                    <string>2</string>
                 </dict>
                 <key>Auto Tilt</key>
                 <dict>
@@ -189,24 +188,18 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>11953</string>
+                    <string>37814</string>
                     <key>className</key>
-                    <string>PTModelPolygon</string>
+                    <string>PTModelCircle</string>
                     <key>points</key>
                     <array>
-                        <string>{-30.000000,-30.000000}</string>
-                        <string>{-2.000000,-41.500000}</string>
-                        <string>{30.000000,-29.000000}</string>
-                        <string>{45.000000,1.000000}</string>
-                        <string>{27.687500,27.875000}</string>
-                        <string>{2.375000,50.750000}</string>
-                        <string>{-30.250000,29.500000}</string>
-                        <string>{-45.500000,1.000000}</string>
+                        <string>{-0.500000,1.000000}</string>
+                        <string>{39.500000,1.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>1</string>
+                    <string>2</string>
                 </dict>
                 <key>Auto Tilt</key>
                 <dict>
@@ -279,22 +272,18 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>16500</string>
+                    <string>37816</string>
                     <key>className</key>
-                    <string>PTModelPolygon</string>
+                    <string>PTModelCircle</string>
                     <key>points</key>
                     <array>
-                        <string>{46.000000,-2.000000}</string>
-                        <string>{52.000000,10.000000}</string>
-                        <string>{2.000000,35.000000}</string>
-                        <string>{-51.000000,11.000000}</string>
-                        <string>{-42.000000,-4.000000}</string>
-                        <string>{0.000000,-25.000000}</string>
+                        <string>{1.500000,7.000000}</string>
+                        <string>{41.099998,7.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>1</string>
+                    <string>2</string>
                 </dict>
                 <key>Auto Tilt</key>
                 <dict>
@@ -367,22 +356,18 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>26903</string>
+                    <string>37819</string>
                     <key>className</key>
-                    <string>PTModelPolygon</string>
+                    <string>PTModelCircle</string>
                     <key>points</key>
                     <array>
-                        <string>{-24.000000,-45.000000}</string>
-                        <string>{23.000000,-46.000000}</string>
-                        <string>{50.000000,-4.000000}</string>
-                        <string>{48.000000,21.000000}</string>
-                        <string>{-50.000000,21.000000}</string>
-                        <string>{-49.000000,-4.000000}</string>
+                        <string>{0.000000,-6.000000}</string>
+                        <string>{39.599998,-6.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>1</string>
+                    <string>2</string>
                 </dict>
                 <key>Auto Tilt</key>
                 <dict>
@@ -455,21 +440,18 @@
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>29723</string>
+                    <string>37822</string>
                     <key>className</key>
-                    <string>PTModelPolygon</string>
+                    <string>PTModelCircle</string>
                     <key>points</key>
                     <array>
-                        <string>{-40.000000,-26.000000}</string>
-                        <string>{0.500000,-47.500000}</string>
-                        <string>{40.000000,-27.000000}</string>
-                        <string>{40.000000,31.000000}</string>
-                        <string>{-41.000000,31.000000}</string>
+                        <string>{0.000000,-5.000000}</string>
+                        <string>{39.799999,-4.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>1</string>
+                    <string>2</string>
                 </dict>
                 <key>Auto Tilt</key>
                 <dict>
