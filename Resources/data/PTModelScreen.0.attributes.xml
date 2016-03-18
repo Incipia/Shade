@@ -202,7 +202,7 @@
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAds</string>
+                    <string>kAdMob</string>
                 </dict>
                 <key>Ad Interstitials Freq.</key>
                 <dict>
@@ -210,11 +210,6 @@
                     <string>5.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
-                </dict>
-                <key>Ad Banner Freq.</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.000000</string>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
@@ -246,7 +241,7 @@
                 <key>Ad Banner</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoAds</string>
+                    <string>kAdMob</string>
                 </dict>
                 <key>Background Scene</key>
                 <dict>
