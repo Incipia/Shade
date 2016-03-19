@@ -18,7 +18,7 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.23</string>
+                    <string>0.24</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
@@ -38,21 +38,21 @@
                 <key>Game Speed Min</key>
                 <dict>
                     <key>value</key>
-                    <string>8.000000</string>
+                    <string>6.800000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
                     <key>value</key>
-                    <string>8.400000</string>
+                    <string>11.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Game Speed Increase</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000100</string>
+                    <string>0.000200</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -142,7 +142,7 @@
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>39870</string>
+                <string>43059</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>

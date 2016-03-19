@@ -5144,7 +5144,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{520.000,880.000}</string>
+                    <string>{520.000,770.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -8291,7 +8291,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9454,7 +9454,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{145.000,730.000}</string>
+                    <string>{325.000,1080.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -9470,31 +9470,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>37540</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{330.000,270.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Group ID</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>13</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9519,7 +9494,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9529,7 +9504,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{505.000,1030.000}</string>
+                    <string>{505.000,1080.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -9544,7 +9519,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -9679,7 +9654,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{145.000,1430.000}</string>
+                    <string>{235.000,1480.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

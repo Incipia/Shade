@@ -172,7 +172,7 @@
                 <key>Radius</key>
                 <dict>
                     <key>value</key>
-                    <string>45.000000</string>
+                    <string>55.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1077,7 +1077,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,880.000}</string>
+                    <string>{320.000,1070.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

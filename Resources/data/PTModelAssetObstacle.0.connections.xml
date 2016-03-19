@@ -49,15 +49,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>1333</string>
-                <key>Idle Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>1335</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>1721</string>
                 <key>Idle Animation</key>
                 <dict>
@@ -247,6 +238,78 @@
                 <dict>
                     <key>value</key>
                     <string>32794</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>40054</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40056</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>40066</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40068</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>40078</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40080</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>40090</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40092</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>40102</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40104</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>40520</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40522</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>40796</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40798</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>41622</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>41624</string>
                 </dict>
             </dict>
         </array>

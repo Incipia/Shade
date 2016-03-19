@@ -37,6 +37,16 @@
                     <key>value</key>
                     <string>8779</string>
                 </dict>
+                <key>Unlocked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40811</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>40782</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -50,6 +60,11 @@
                 <dict>
                     <key>value</key>
                     <string>12057</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>41103</string>
                 </dict>
             </dict>
             <dict>
@@ -65,6 +80,11 @@
                     <key>value</key>
                     <string>16542</string>
                 </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>41122</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -79,6 +99,11 @@
                     <key>value</key>
                     <string>26918</string>
                 </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>41130</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -88,10 +113,20 @@
                     <key>value</key>
                     <string>29724</string>
                 </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>39999</string>
+                </dict>
                 <key>Defeated Animation</key>
                 <dict>
                     <key>value</key>
                     <string>29785</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>41138</string>
                 </dict>
             </dict>
         </array>

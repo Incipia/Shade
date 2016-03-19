@@ -54,7 +54,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -105,7 +105,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -149,7 +149,7 @@
                     <string>BEST</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>3</string>
                 <key>calculatedSize</key>
                 <string>{143.000,83.000}</string>
             </dict>
@@ -202,7 +202,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -246,7 +246,7 @@
                     <string>-COINS-</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
                 <key>calculatedSize</key>
                 <string>{230.000,83.000}</string>
             </dict>
@@ -292,7 +292,7 @@
                     <string>SCORE</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>4</string>
                 <key>calculatedSize</key>
                 <string>{198.000,83.000}</string>
             </dict>

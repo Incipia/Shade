@@ -99,7 +99,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Player2</string>
+                    <string>Green</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -158,7 +158,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>10.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -183,7 +183,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Player3</string>
+                    <string>Orange</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -242,7 +242,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>20.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -267,7 +267,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Player5</string>
+                    <string>Yellow</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -326,7 +326,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>30.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -351,7 +351,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Player6</string>
+                    <string>Pink</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -410,7 +410,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>40.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -435,7 +435,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Player7</string>
+                    <string>Red</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
@@ -489,14 +489,12 @@
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kFree</string>
+                    <string>kInGameCurrency</string>
                 </dict>
                 <key>Price</key>
                 <dict>
-                    <key>visible</key>
-                    <string>0</string>
                     <key>value</key>
-                    <string>0.000000</string>
+                    <string>50.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
