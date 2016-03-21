@@ -500,6 +500,40 @@
                     <string>45232</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45574</string>
+                <key>sprites</key>
+                <array>
+                    <string>45575</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45587</string>
+                <key>sprites</key>
+                <array>
+                    <string>45588</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45944</string>
+                <key>sprites</key>
+                <array>
+                    <string>45945</string>
+                    <string>45946</string>
+                    <string>45947</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46165</string>
+                <key>sprites</key>
+                <array>
+                    <string>46166</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

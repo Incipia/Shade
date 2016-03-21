@@ -321,6 +321,20 @@
                     <string>45005</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45589</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>45591</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>45642</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

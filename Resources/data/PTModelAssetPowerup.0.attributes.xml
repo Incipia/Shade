@@ -1348,6 +1348,115 @@
                     <string>0</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45351</string>
+                <key>className</key>
+                <string>PTModelAssetPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SHADE Mode</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>45704</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>points</key>
+                    <array>
+                        <string>{-63.000000,-73.000000}</string>
+                        <string>{57.000000,-73.000000}</string>
+                        <string>{57.000000,76.000000}</string>
+                        <string>{-63.000000,76.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+                <key>Powerup Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPowerupGameplay</string>
+                </dict>
+                <key>Animation Placement</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPowerupCharacterConstraint</string>
+                </dict>
+                <key>Animation Behaviour</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplaceBehaviour</string>
+                </dict>
+                <key>Animation Repeat</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kLoopedAnimation</string>
+                </dict>
+                <key>Duration</key>
+                <dict>
+                    <key>value</key>
+                    <string>1000000.000000</string>
+                </dict>
+                <key>Max Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{45.000,0.000}</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>value</key>
+                    <string>180.000000</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>275.000000</string>
+                </dict>
+                <key>Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.005000</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                </dict>
+                <key>Time Warp</key>
+                <dict>
+                    <key>value</key>
+                    <string>50.000000</string>
+                </dict>
+                <key>Velocity Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>100.000000</string>
+                </dict>
+                <key>Rotation Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Score Multiplier</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.005000</string>
+                </dict>
+                <key>Air Drag</key>
+                <dict>
+                    <key>value</key>
+                    <string>{100.000,100.000}</string>
+                </dict>
+                <key>Game Direction</key>
+                <dict>
+                    <key>value</key>
+                    <string>-90.000000</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

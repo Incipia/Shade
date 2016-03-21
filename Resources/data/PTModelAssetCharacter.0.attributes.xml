@@ -261,90 +261,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>16499</string>
-                <key>className</key>
-                <string>PTModelAssetCharacter</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Yellow</string>
-                </dict>
-                <key>Collision Shape</key>
-                <dict>
-                    <key>id</key>
-                    <string>37816</string>
-                    <key>className</key>
-                    <string>PTModelCircle</string>
-                    <key>points</key>
-                    <array>
-                        <string>{1.500000,7.000000}</string>
-                        <string>{41.099998,7.000000}</string>
-                    </array>
-                    <key>oneWayCollisionVector</key>
-                    <string>{0.000000,0.000000}</string>
-                    <key>shapeType</key>
-                    <string>2</string>
-                </dict>
-                <key>Auto Tilt</key>
-                <dict>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Game Over Delay</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.750000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Camera Shake</key>
-                <dict>
-                    <key>value</key>
-                    <string>1.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.300000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>value</key>
-                    <string>10.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Purchase Method</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kInGameCurrency</string>
-                </dict>
-                <key>Price</key>
-                <dict>
-                    <key>value</key>
-                    <string>30.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Store Identifier</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Ad Network</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kHeyzap</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>29722</string>
                 <key>className</key>
                 <string>PTModelAssetCharacter</string>
@@ -411,6 +327,90 @@
                 <dict>
                     <key>value</key>
                     <string>50.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16499</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Yellow</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>37816</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>points</key>
+                    <array>
+                        <string>{1.500000,7.000000}</string>
+                        <string>{41.099998,7.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Auto Tilt</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.750000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.300000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>value</key>
+                    <string>10.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kInGameCurrency</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>value</key>
+                    <string>30.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -497,6 +497,77 @@
                     <string>40.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45933</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueOrange</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>45941</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{39.599998,0.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Auto Tilt</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.750000</string>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.300000</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kFree</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>

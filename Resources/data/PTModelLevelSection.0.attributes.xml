@@ -344,6 +344,38 @@
             </dict>
             <dict>
                 <key>id</key>
+                <string>45475</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>DifficultyChoice</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>5879.000000</string>
+                </dict>
+                <key>End Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>7800.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>1500.000000</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
                 <string>796</string>
                 <key>className</key>
                 <string>PTModelLevelSection</string>
@@ -355,7 +387,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7626.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -393,7 +425,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7649.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -424,7 +456,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7661.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -455,7 +487,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7661.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -486,7 +518,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7649.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -524,7 +556,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7626.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -555,7 +587,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7685.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -586,7 +618,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7673.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -617,7 +649,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7649.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -648,7 +680,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7661.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -679,7 +711,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7637.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -741,7 +773,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7649.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -772,7 +804,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7637.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -834,7 +866,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7637.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -927,7 +959,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7661.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -958,7 +990,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7649.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -996,7 +1028,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7649.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1027,7 +1059,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7649.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1058,7 +1090,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7614.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1089,7 +1121,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7626.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1120,7 +1152,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7614.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1151,7 +1183,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7637.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1182,7 +1214,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7602.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1213,7 +1245,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7602.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1244,7 +1276,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7578.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1275,7 +1307,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7602.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1306,7 +1338,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7590.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1337,7 +1369,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7578.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1368,7 +1400,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7554.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1399,7 +1431,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>7566.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1623,7 +1655,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6236.000000</string>
+                    <string>7554.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1661,7 +1693,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6124.000000</string>
+                    <string>7566.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1692,7 +1724,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6180.000000</string>
+                    <string>7542.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1723,7 +1755,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6124.000000</string>
+                    <string>7519.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1885,7 +1917,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7507.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1947,7 +1979,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5955.000000</string>
+                    <string>7483.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1978,7 +2010,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7495.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2009,7 +2041,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7459.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2102,7 +2134,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7471.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2195,7 +2227,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7400.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2226,7 +2258,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7412.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2257,7 +2289,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2319,7 +2351,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2350,7 +2382,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2381,7 +2413,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2412,7 +2444,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7436.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2443,7 +2475,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2474,7 +2506,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2567,7 +2599,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7447.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2598,7 +2630,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7447.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2629,7 +2661,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2660,7 +2692,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7436.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2691,7 +2723,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7412.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2722,7 +2754,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7424.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2753,7 +2785,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7447.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2784,7 +2816,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7447.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2815,7 +2847,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7459.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2846,7 +2878,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7495.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2877,7 +2909,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7483.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2908,7 +2940,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7495.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2939,7 +2971,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7507.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -2970,7 +3002,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7507.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3032,7 +3064,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7519.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3063,7 +3095,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7519.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3094,7 +3126,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7542.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3125,7 +3157,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7542.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3156,7 +3188,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7554.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3187,7 +3219,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7542.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3218,7 +3250,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7566.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3249,7 +3281,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7531.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3280,7 +3312,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7531.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3342,7 +3374,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7495.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3352,6 +3384,33 @@
                     <string>2000.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
+                </dict>
+                <key>muted</key>
+                <string>0</string>
+                <key>solo</key>
+                <string>0</string>
+                <key>initSection</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45834</string>
+                <key>className</key>
+                <string>PTModelLevelSection</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>83</string>
+                </dict>
+                <key>Start Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>7542.000000</string>
+                </dict>
+                <key>Width</key>
+                <dict>
+                    <key>value</key>
+                    <string>2000.000000</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -3373,7 +3432,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7519.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3404,7 +3463,7 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5899.000000</string>
+                    <string>7542.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -3435,14 +3494,14 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6000.000000</string>
+                    <string>6557.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>6050.000000</string>
+                    <string>7020.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

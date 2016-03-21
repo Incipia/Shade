@@ -697,6 +697,50 @@
                     <string>PlayerRed2</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45574</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SHADEPerspective</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45587</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Shade</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45944</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player8</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46165</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SHADEPower</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

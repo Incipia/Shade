@@ -100,6 +100,20 @@
                     <string>44917</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45351</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>45353</string>
+                </dict>
+                <key>Start Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>45408</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

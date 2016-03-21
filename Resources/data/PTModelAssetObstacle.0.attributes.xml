@@ -946,6 +946,43 @@
                     <string>1</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45589</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Crack</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>45650</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,-19.000000}</string>
+                        <string>{249.399994,-15.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Health</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                </dict>
+                <key>Damage</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1.000000</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

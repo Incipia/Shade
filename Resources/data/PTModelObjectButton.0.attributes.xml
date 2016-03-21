@@ -918,6 +918,29 @@
                 <key>zDepth</key>
                 <string>1000</string>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45373</string>
+                <key>className</key>
+                <string>PTModelObjectButton</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{389.674,790.907}</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kRestartButton</string>
+                </dict>
+                <key>zDepth</key>
+                <string>1000</string>
+            </dict>
         </array>
     </dict>
 </plist>
