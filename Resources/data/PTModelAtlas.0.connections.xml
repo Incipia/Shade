@@ -11,25 +11,26 @@
                 <key>sprites</key>
                 <array>
                     <string>170</string>
-                    <string>3709</string>
                     <string>19526</string>
-                    <string>1116</string>
+                    <string>3709</string>
                     <string>2842</string>
+                    <string>1116</string>
                     <string>2945</string>
                     <string>497</string>
                     <string>24775</string>
-                    <string>24769</string>
-                    <string>35461</string>
-                    <string>35467</string>
-                    <string>35489</string>
-                    <string>35881</string>
                     <string>36387</string>
+                    <string>35881</string>
+                    <string>35489</string>
+                    <string>35467</string>
+                    <string>35461</string>
+                    <string>24769</string>
                     <string>42431</string>
                     <string>41171</string>
                     <string>41544</string>
-                    <string>39952</string>
-                    <string>39943</string>
-                    <string>39970</string>
+                    <string>45122</string>
+                    <string>45064</string>
+                    <string>45025</string>
+                    <string>45179</string>
                     <string>1720</string>
                     <string>1937</string>
                     <string>2273</string>
@@ -40,38 +41,39 @@
                     <string>8768</string>
                     <string>9110</string>
                     <string>11680</string>
-                    <string>39979</string>
+                    <string>45232</string>
                     <string>9198</string>
-                    <string>39902</string>
+                    <string>45104</string>
                     <string>41621</string>
                     <string>40795</string>
-                    <string>39961</string>
+                    <string>45144</string>
+                    <string>24987</string>
                     <string>24986</string>
                     <string>24918</string>
                     <string>24917</string>
-                    <string>24987</string>
-                    <string>25008</string>
-                    <string>26489</string>
                     <string>26490</string>
+                    <string>25008</string>
                     <string>25009</string>
-                    <string>24997</string>
-                    <string>24998</string>
+                    <string>26489</string>
                     <string>27572</string>
                     <string>27573</string>
                     <string>27605</string>
                     <string>27606</string>
+                    <string>24997</string>
+                    <string>24998</string>
                     <string>32780</string>
                     <string>35423</string>
                     <string>32791</string>
                     <string>17647</string>
                     <string>17423</string>
                     <string>11474</string>
+                    <string>40053</string>
+                    <string>40065</string>
                     <string>40077</string>
                     <string>40089</string>
                     <string>40101</string>
                     <string>40519</string>
-                    <string>40065</string>
-                    <string>40053</string>
+                    <string>45002</string>
                 </array>
             </dict>
             <dict>

@@ -326,54 +326,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>39901</string>
-                <key>sprites</key>
-                <array>
-                    <string>39902</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>39942</string>
-                <key>sprites</key>
-                <array>
-                    <string>39943</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>39951</string>
-                <key>sprites</key>
-                <array>
-                    <string>39952</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>39960</string>
-                <key>sprites</key>
-                <array>
-                    <string>39961</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>39969</string>
-                <key>sprites</key>
-                <array>
-                    <string>39970</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>39978</string>
-                <key>sprites</key>
-                <array>
-                    <string>39979</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>40052</string>
                 <key>sprites</key>
                 <array>
@@ -482,6 +434,70 @@
                 <key>sprites</key>
                 <array>
                     <string>42990</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45001</string>
+                <key>sprites</key>
+                <array>
+                    <string>45002</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45024</string>
+                <key>sprites</key>
+                <array>
+                    <string>45025</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45063</string>
+                <key>sprites</key>
+                <array>
+                    <string>45064</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45103</string>
+                <key>sprites</key>
+                <array>
+                    <string>45104</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45121</string>
+                <key>sprites</key>
+                <array>
+                    <string>45122</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45143</string>
+                <key>sprites</key>
+                <array>
+                    <string>45144</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45178</string>
+                <key>sprites</key>
+                <array>
+                    <string>45179</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>45231</string>
+                <key>sprites</key>
+                <array>
+                    <string>45232</string>
                 </array>
             </dict>
         </array>

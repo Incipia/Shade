@@ -18,6 +18,11 @@
                     <key>value</key>
                     <string>2468</string>
                 </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44927</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -31,6 +36,11 @@
                 <dict>
                     <key>value</key>
                     <string>3810</string>
+                </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44927</string>
                 </dict>
             </dict>
             <dict>
@@ -46,6 +56,11 @@
                     <key>value</key>
                     <string>4456</string>
                 </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44924</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -60,6 +75,11 @@
                     <key>value</key>
                     <string>26484</string>
                 </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44908</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -73,6 +93,11 @@
                 <dict>
                     <key>value</key>
                     <string>17412</string>
+                </dict>
+                <key>Start Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44917</string>
                 </dict>
             </dict>
         </array>

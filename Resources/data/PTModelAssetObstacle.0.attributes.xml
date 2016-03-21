@@ -917,6 +917,35 @@
                     <string>1</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>45003</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PlayerGreen</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>45004</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>points</key>
+                    <array>
+                        <string>{-60.000000,-40.000000}</string>
+                        <string>{60.000000,-40.000000}</string>
+                        <string>{60.000000,40.000000}</string>
+                        <string>{-60.000000,40.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

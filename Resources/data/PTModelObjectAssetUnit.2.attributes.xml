@@ -2332,7 +2332,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>

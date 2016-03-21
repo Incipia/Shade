@@ -7,13 +7,117 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>36277</string>
+                <string>44656</string>
                 <key>className</key>
                 <string>PTModelSound</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Stratus.09.22.15.1.NG.Mstr2.mp3</string>
+                    <string>SHADE.Song.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44702</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>UnlockShipMstr.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44703</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ShipLockedMstr.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44752</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>DeathSound2Mstr.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44890</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>DeathSound3Mstr.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44908</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>PurpleCoin3.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44917</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GreenBar3.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44924</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>GreenCoin5.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>44927</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>BlueCoin6.mp3</string>
                 </dict>
                 <key>fileFormat</key>
                 <string>mp3</string>

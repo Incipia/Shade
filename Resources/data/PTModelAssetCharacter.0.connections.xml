@@ -23,6 +23,11 @@
                     <key>value</key>
                     <string>191</string>
                 </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -47,6 +52,11 @@
                     <key>value</key>
                     <string>40782</string>
                 </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44752</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -65,6 +75,11 @@
                 <dict>
                     <key>value</key>
                     <string>41103</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44752</string>
                 </dict>
             </dict>
             <dict>
@@ -85,24 +100,10 @@
                     <key>value</key>
                     <string>41122</string>
                 </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>26902</string>
-                <key>Default Animation</key>
+                <key>Defeated Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>26904</string>
-                </dict>
-                <key>Defeated Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>26918</string>
-                </dict>
-                <key>Locked Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>41130</string>
+                    <string>44752</string>
                 </dict>
             </dict>
             <dict>
@@ -127,6 +128,35 @@
                 <dict>
                     <key>value</key>
                     <string>41138</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44752</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>26902</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>26904</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>26918</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>41130</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44752</string>
                 </dict>
             </dict>
         </array>
