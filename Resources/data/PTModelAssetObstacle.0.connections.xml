@@ -335,6 +335,24 @@
                     <string>45642</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>46774</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46776</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46810</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46812</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

@@ -34,7 +34,7 @@
                 <key>Sensitivity</key>
                 <dict>
                     <key>value</key>
-                    <string>0.800000</string>
+                    <string>0.900000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -44,7 +44,7 @@
                     <string>kControlStyleAbsolute</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>5</string>
             </dict>
         </array>
     </dict>

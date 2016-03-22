@@ -727,7 +727,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -825,7 +825,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -11340,7 +11340,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -11443,7 +11443,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49111,7 +49111,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49227,7 +49227,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>10</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49343,7 +49343,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>11</string>
+                <string>9</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49459,7 +49459,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>13</string>
+                <string>11</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49575,7 +49575,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>14</string>
+                <string>12</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -49691,7 +49691,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>

@@ -732,13 +732,62 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>46165</string>
+                <string>46593</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Normal</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46763</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>FAST</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46772</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Normal</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46808</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
                     <string>SHADEPower</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46825</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ShadeBBUpdate136s7</string>
                 </dict>
             </dict>
         </array>

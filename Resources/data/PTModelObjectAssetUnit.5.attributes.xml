@@ -27504,7 +27504,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{350.000,760.000}</string>
+                    <string>{490.000,1060.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -27595,12 +27595,16 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,730.000}</string>
+                    <string>{240.000,730.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.776,1.792}</string>
+                    <string>{0.375,1.792}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -27620,7 +27624,7 @@
                 <key>Collision Type</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
+                    <string>kCharacterCollision</string>
                 </dict>
                 <key>Destroy Type</key>
                 <dict>
@@ -27636,6 +27640,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -27646,10 +27654,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -27677,12 +27693,16 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,710.000}</string>
+                    <string>{130.000,720.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.630,0.800}</string>
+                    <string>{0.500,0.500}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -27718,6 +27738,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -27728,10 +27752,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -27742,7 +27774,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>0</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -28203,170 +28235,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>-1</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>45759</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,1200.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.776,1.792}</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>4</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>45762</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>Shade</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{98.000,1180.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.638,0.802}</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDecorationObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyNo</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -28945,11 +28813,15 @@
                 <dict>
                     <key>value</key>
                     <string>{330.122,975.636}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.040,0.040}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -28968,8 +28840,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -28990,6 +28866,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -28999,6 +28877,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29010,6 +28892,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.070000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29035,11 +28919,15 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,980.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.111,0.111}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29058,8 +28946,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29080,6 +28972,8 @@
                 <dict>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29090,10 +28984,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -29213,11 +29115,15 @@
                 <dict>
                     <key>value</key>
                     <string>{330.122,936.636}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.026,0.026}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29236,8 +29142,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,2.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29258,6 +29168,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29267,6 +29179,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29278,6 +29194,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.100000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29303,11 +29221,15 @@
                 <dict>
                     <key>value</key>
                     <string>{340.000,950.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.014,0.014}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29326,8 +29248,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29348,6 +29274,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29357,6 +29285,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29368,6 +29300,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.100000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29393,11 +29327,15 @@
                 <dict>
                     <key>value</key>
                     <string>{353.367,950.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.014,0.014}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29416,8 +29354,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29438,6 +29380,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29447,6 +29391,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29458,6 +29406,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.100000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29483,11 +29433,15 @@
                 <dict>
                     <key>value</key>
                     <string>{291.122,975.636}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.040,0.040}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29506,8 +29460,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,2.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29528,6 +29486,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29537,6 +29497,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29548,6 +29512,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.070000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29573,11 +29539,15 @@
                 <dict>
                     <key>value</key>
                     <string>{340.122,994.636}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.032,0.032}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29596,8 +29566,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,2.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29618,6 +29592,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29627,6 +29603,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29638,6 +29618,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.070000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29663,11 +29645,15 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1670.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.111,0.111}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29686,8 +29672,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29708,6 +29698,8 @@
                 <dict>
                     <key>value</key>
                     <string>600.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29718,10 +29710,18 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Rate</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
@@ -29750,11 +29750,15 @@
                 <dict>
                     <key>value</key>
                     <string>{340.000,1650.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.032,0.032}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29773,8 +29777,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29795,6 +29803,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29804,6 +29814,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29815,6 +29829,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.070000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29840,11 +29856,15 @@
                 <dict>
                     <key>value</key>
                     <string>{308.615,1650.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.025,0.025}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29863,8 +29883,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29885,6 +29909,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29894,6 +29920,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29905,6 +29935,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.070000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -29930,11 +29962,15 @@
                 <dict>
                     <key>value</key>
                     <string>{308.615,1673.794}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.037,0.037}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -29953,8 +29989,12 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -29975,6 +30015,8 @@
                 <dict>
                     <key>value</key>
                     <string>1200.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -29984,6 +30026,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -29995,6 +30041,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.070000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30215,13 +30263,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30242,6 +30298,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30251,6 +30311,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30262,6 +30326,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30287,6 +30353,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-5.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30305,13 +30373,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30332,6 +30408,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30341,6 +30421,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30352,6 +30436,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30377,11 +30463,15 @@
                 <dict>
                     <key>value</key>
                     <string>{-10.000,-20.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.611,1.611}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30400,13 +30490,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30427,6 +30525,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30436,6 +30538,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30447,6 +30553,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30472,6 +30580,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-20.000,20.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30490,13 +30600,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30517,6 +30635,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30526,6 +30648,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30537,6 +30663,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30562,6 +30690,8 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,19.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30580,13 +30710,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30607,6 +30745,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30616,6 +30758,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30627,6 +30773,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30652,6 +30800,8 @@
                 <dict>
                     <key>value</key>
                     <string>{11.000,-19.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30670,13 +30820,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30697,6 +30855,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30706,6 +30868,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30717,6 +30883,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30742,6 +30910,8 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-19.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30760,13 +30930,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30787,6 +30965,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30796,6 +30978,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30807,6 +30993,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30832,6 +31020,8 @@
                 <dict>
                     <key>value</key>
                     <string>{22.000,-19.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30850,13 +31040,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30877,6 +31075,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30886,6 +31088,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30897,6 +31103,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -30922,6 +31130,8 @@
                 <dict>
                     <key>value</key>
                     <string>{22.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -30940,13 +31150,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -30967,6 +31185,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -30976,6 +31198,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -30987,6 +31213,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31012,6 +31240,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-20.000,10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31030,13 +31260,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31057,6 +31295,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31066,6 +31308,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31077,6 +31323,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31102,6 +31350,8 @@
                 <dict>
                     <key>value</key>
                     <string>{1.949,1.949}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31120,13 +31370,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31147,6 +31405,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31156,6 +31418,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31167,6 +31433,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31192,6 +31460,8 @@
                 <dict>
                     <key>value</key>
                     <string>{10.000,10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31210,13 +31480,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31237,6 +31515,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31246,6 +31528,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31257,6 +31543,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31282,6 +31570,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-5.000,19.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31300,13 +31590,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31327,6 +31625,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31336,6 +31638,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31347,6 +31653,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31372,6 +31680,8 @@
                 <dict>
                     <key>value</key>
                     <string>{10.000,-10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31390,13 +31700,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31417,6 +31735,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31426,6 +31748,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31437,6 +31763,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31462,6 +31790,8 @@
                 <dict>
                     <key>value</key>
                     <string>{20.000,-10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31480,13 +31810,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31507,6 +31845,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31516,6 +31858,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31527,6 +31873,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31552,6 +31900,8 @@
                 <dict>
                     <key>value</key>
                     <string>{30.000,10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31570,13 +31920,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31597,6 +31955,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31606,6 +31968,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31617,6 +31983,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31642,6 +32010,8 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31660,13 +32030,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31687,6 +32065,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31696,6 +32078,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31707,6 +32093,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31732,6 +32120,8 @@
                 <dict>
                     <key>value</key>
                     <string>{30.000,-20.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31750,13 +32140,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31777,6 +32175,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31786,6 +32188,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31797,6 +32203,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31822,6 +32230,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-20.000,-30.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31840,13 +32250,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31867,6 +32285,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31876,6 +32298,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31887,6 +32313,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -31912,6 +32340,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-16.000,38.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -31930,13 +32360,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -31957,6 +32395,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -31966,6 +32408,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -31977,6 +32423,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32002,6 +32450,8 @@
                 <dict>
                     <key>value</key>
                     <string>{20.000,-30.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32020,13 +32470,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32047,6 +32505,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32056,6 +32518,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32067,6 +32533,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32092,6 +32560,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-20.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32110,13 +32580,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32137,6 +32615,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32146,6 +32628,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32157,6 +32643,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32182,6 +32670,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-20.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32200,13 +32690,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32227,6 +32725,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32236,6 +32738,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32247,6 +32753,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32272,6 +32780,8 @@
                 <dict>
                     <key>value</key>
                     <string>{33.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32290,13 +32800,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32317,6 +32835,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32326,6 +32848,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32337,6 +32863,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32362,6 +32890,8 @@
                 <dict>
                     <key>value</key>
                     <string>{33.000,19.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32380,13 +32910,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32407,6 +32945,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32416,6 +32958,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32427,6 +32973,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32452,11 +33000,15 @@
                 <dict>
                     <key>value</key>
                     <string>{33.000,38.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.596,0.596}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32475,13 +33027,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32502,6 +33062,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32511,6 +33075,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32522,6 +33090,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32547,6 +33117,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-10.000,10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32565,13 +33137,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32592,6 +33172,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32601,6 +33185,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32612,6 +33200,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32637,11 +33227,15 @@
                 <dict>
                     <key>value</key>
                     <string>{-20.000,20.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.721,0.721}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32660,13 +33254,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32687,6 +33289,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32696,6 +33302,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32707,6 +33317,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32732,6 +33344,8 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,-30.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32750,13 +33364,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32777,6 +33399,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32786,6 +33412,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32797,6 +33427,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32822,11 +33454,15 @@
                 <dict>
                     <key>value</key>
                     <string>{-30.000,-20.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.565,0.565}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32845,13 +33481,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32872,6 +33516,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32881,6 +33529,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32892,6 +33544,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -32917,6 +33571,8 @@
                 <dict>
                     <key>value</key>
                     <string>{22.000,-38.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -32935,13 +33591,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -32962,6 +33626,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -32971,6 +33639,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -32982,6 +33654,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -33007,11 +33681,15 @@
                 <dict>
                     <key>value</key>
                     <string>{33.000,-38.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.659,0.659}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -33030,13 +33708,21 @@
                 </dict>
                 <key>Linear Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
                     <key>variableValue</key>
                     <string>{40.000,40.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Angular Velocity</key>
                 <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
                     <key>variableValue</key>
                     <string>40.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -33057,6 +33743,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -33066,6 +33756,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -33077,6 +33771,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.050000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -33102,6 +33798,8 @@
                 <dict>
                     <key>value</key>
                     <string>{-36.483,-0.297}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -33137,6 +33835,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -33146,6 +33848,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -33157,6 +33863,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -33182,6 +33890,8 @@
                 <dict>
                     <key>value</key>
                     <string>{35.517,-0.297}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -33217,6 +33927,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -33226,6 +33940,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -33237,6 +33955,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -33262,6 +33982,8 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,32.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -33297,6 +34019,10 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Sleep</key>
                 <dict>
@@ -33306,6 +34032,10 @@
                 <key>Sleep Distance</key>
                 <dict>
                     <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
                     <string>0</string>
                 </dict>
                 <key>Spawner</key>
@@ -33317,6 +34047,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
@@ -33342,11 +34074,109 @@
                 <dict>
                     <key>value</key>
                     <string>{96.000,734.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.241,0.241}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDecorationObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyNo</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>9</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46782</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Normal</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{430.000,720.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.500,0.500}</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -33407,6 +34237,263 @@
                 </dict>
                 <key>zDepth</key>
                 <string>9</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46785</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>BlackBlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{240.000,730.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.250,1.464}</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>504</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46807</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>WhiteBlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{220.000,1670.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.375,1.792}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>5</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46818</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>SHADEPower</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{125.000,1660.000}</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDecorationObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyNo</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
             </dict>
         </array>
     </dict>

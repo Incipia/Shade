@@ -308,7 +308,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -489,7 +489,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -535,7 +535,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -903,7 +903,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -969,7 +969,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1597,7 +1597,61 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>46171</string>
+                <string>46598</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46769</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46777</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46813</string>
                 <key>className</key>
                 <string>PTModelObjectImage</string>
                 <key>Name</key>

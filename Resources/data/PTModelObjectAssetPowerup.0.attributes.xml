@@ -707,7 +707,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -11611,7 +11611,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{350.000,760.000}</string>
+                    <string>{490.000,1060.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -11626,7 +11626,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -11651,7 +11651,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>0</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -11661,12 +11661,16 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{97.000,750.000}</string>
+                    <string>{130.000,750.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.067,0.447}</string>
+                    <string>{1.727,0.447}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Asset</key>
                 <dict>
@@ -11680,34 +11684,6 @@
                 </dict>
                 <key>zDepth</key>
                 <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>45765</string>
-                <key>className</key>
-                <string>PTModelObjectAssetPowerup</string>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{100.000,1230.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.067,0.447}</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Group ID</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>zDepth</key>
-                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -11732,7 +11708,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -11858,6 +11834,34 @@
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46850</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPowerup</string>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{120.000,1690.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.618,0.497}</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Group ID</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>0</string>
             </dict>
         </array>
     </dict>

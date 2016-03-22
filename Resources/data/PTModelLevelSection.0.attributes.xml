@@ -27,7 +27,7 @@
                 <key>Width</key>
                 <dict>
                     <key>value</key>
-                    <string>1500.000000</string>
+                    <string>2000.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -355,17 +355,23 @@
                 <key>Start Distance</key>
                 <dict>
                     <key>value</key>
-                    <string>5879.000000</string>
+                    <string>5880.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>End Distance</key>
                 <dict>
                     <key>value</key>
                     <string>7800.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>1500.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>
@@ -3406,11 +3412,15 @@
                 <dict>
                     <key>value</key>
                     <string>7542.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Width</key>
                 <dict>
                     <key>value</key>
                     <string>2000.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>muted</key>
                 <string>0</string>

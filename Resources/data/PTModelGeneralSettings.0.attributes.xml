@@ -18,7 +18,7 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.26</string>
+                    <string>0.27</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
@@ -141,8 +141,13 @@
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>360.000000</string>
+                </dict>
                 <key>lastIdNumber</key>
-                <string>46189</string>
+                <string>46869</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -212,7 +217,7 @@
                 <key>_ibVersion</key>
                 <string>1.3.6</string>
                 <key>t</key>
-                <string>1</string>
+                <string>0</string>
                 <key>orientation</key>
                 <string>PTPScreenOrientationPortrait</string>
                 <key>screenAdjustment</key>

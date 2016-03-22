@@ -954,33 +954,97 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Crack</string>
+                    <string>Fast</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>45650</string>
+                    <string>46795</string>
                     <key>className</key>
-                    <string>PTModelCircle</string>
+                    <string>PTModelPolygon</string>
                     <key>points</key>
                     <array>
-                        <string>{0.000000,-19.000000}</string>
-                        <string>{249.399994,-15.000000}</string>
+                        <string>{-130.000000,-68.000000}</string>
+                        <string>{132.000000,-68.000000}</string>
+                        <string>{132.000000,57.000000}</string>
+                        <string>{-130.000000,57.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>2</string>
+                    <string>1</string>
                 </dict>
                 <key>Health</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Damage</key>
                 <dict>
                     <key>value</key>
                     <string>-1.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46774</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Normal</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>46775</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>points</key>
+                    <array>
+                        <string>{-244.000000,-61.000000}</string>
+                        <string>{245.000000,-61.000000}</string>
+                        <string>{245.000000,64.000000}</string>
+                        <string>{-244.000000,64.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>46810</string>
+                <key>className</key>
+                <string>PTModelAssetObstacle</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SHADEPower</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>46811</string>
+                    <key>className</key>
+                    <string>PTModelPolygon</string>
+                    <key>points</key>
+                    <array>
+                        <string>{-63.000000,-73.000000}</string>
+                        <string>{57.000000,-73.000000}</string>
+                        <string>{57.000000,76.000000}</string>
+                        <string>{-63.000000,76.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>1</string>
                 </dict>
             </dict>
         </array>

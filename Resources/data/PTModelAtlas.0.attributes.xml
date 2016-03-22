@@ -83,16 +83,22 @@
                 <dict>
                     <key>value</key>
                     <string>2048.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>height</key>
                 <dict>
                     <key>value</key>
                     <string>2048.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>padding</key>
                 <dict>
                     <key>value</key>
                     <string>4.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
             </dict>
         </array>

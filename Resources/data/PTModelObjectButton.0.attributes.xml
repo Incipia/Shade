@@ -65,7 +65,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>14</string>
+                <string>13</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -259,7 +259,7 @@
                     <string>kReviewButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>11</string>
+                <string>10</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -316,7 +316,7 @@
                     <string>kPauseButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>10</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -373,7 +373,7 @@
                     <string>kShareButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>13</string>
+                <string>12</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -430,7 +430,7 @@
                     <string>kBackButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>12</string>
+                <string>11</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -683,7 +683,7 @@
                     <string>kPauseButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>9</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -932,6 +932,8 @@
                 <dict>
                     <key>value</key>
                     <string>{389.674,790.907}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Action</key>
                 <dict>
