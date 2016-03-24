@@ -18329,7 +18329,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,750.000}</string>
+                    <string>{284.000,649.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -18403,7 +18403,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -18420,7 +18420,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{470.000,1550.000}</string>
+                    <string>{370.000,1440.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -18494,7 +18494,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -18597,7 +18597,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>9</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -18702,7 +18702,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>10</string>
+                <string>11</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -19113,7 +19113,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>10</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -19722,7 +19722,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>11</string>
+                <string>12</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -46112,7 +46112,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36833</string>
+                <string>37406</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46210,7 +46210,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36834</string>
+                <string>37407</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46308,7 +46308,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36835</string>
+                <string>37408</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46399,7 +46399,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36836</string>
+                <string>37409</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46490,7 +46490,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36860</string>
+                <string>37413</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46586,7 +46586,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36866</string>
+                <string>37414</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46682,7 +46682,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36884</string>
+                <string>37415</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46774,11 +46774,11 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>70</string>
+                <string>65</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>36890</string>
+                <string>37416</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46874,7 +46874,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36912</string>
+                <string>37417</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46887,7 +46887,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,478.000}</string>
+                    <string>{100.000,480.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -46970,7 +46970,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36916</string>
+                <string>37418</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -46983,7 +46983,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,576.000}</string>
+                    <string>{100.000,580.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47066,7 +47066,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36920</string>
+                <string>37419</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47079,7 +47079,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,674.000}</string>
+                    <string>{100.000,680.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47162,7 +47162,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36924</string>
+                <string>37420</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47175,7 +47175,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,772.000}</string>
+                    <string>{100.000,780.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47258,7 +47258,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36928</string>
+                <string>37421</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47271,7 +47271,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,870.000}</string>
+                    <string>{100.000,880.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47354,7 +47354,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36932</string>
+                <string>37422</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47367,7 +47367,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,968.000}</string>
+                    <string>{100.000,980.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47450,7 +47450,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36936</string>
+                <string>37423</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47463,7 +47463,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1066.000}</string>
+                    <string>{100.000,1080.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47546,7 +47546,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36940</string>
+                <string>37424</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47559,7 +47559,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1164.000}</string>
+                    <string>{100.000,1180.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47642,7 +47642,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36944</string>
+                <string>37425</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47655,7 +47655,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1262.000}</string>
+                    <string>{100.000,1280.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47738,7 +47738,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36948</string>
+                <string>37426</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47751,7 +47751,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1360.000}</string>
+                    <string>{100.000,1380.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47834,7 +47834,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36952</string>
+                <string>37427</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47847,7 +47847,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1458.000}</string>
+                    <string>{100.000,1480.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -47930,7 +47930,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36956</string>
+                <string>37428</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -47943,7 +47943,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1556.000}</string>
+                    <string>{100.000,1580.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48026,7 +48026,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36960</string>
+                <string>37429</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48039,7 +48039,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1654.000}</string>
+                    <string>{100.000,1680.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48122,7 +48122,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36964</string>
+                <string>37431</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48135,103 +48135,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{100.000,1752.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.500,0.500}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kEnemyObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>Wake Up</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kTimeBasedWakeup</string>
-                </dict>
-                <key>Wakeup Distance</key>
-                <dict>
-                    <key>value</key>
-                    <string>700.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Sleep</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoWakeup</string>
-                </dict>
-                <key>Sleep Distance</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Rate</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>0.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Spawn Action</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>selectedStringValue</key>
-                    <string>kPermanentSpawning</string>
-                </dict>
-                <key>zDepth</key>
-                <string>21</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>36985</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>WhiteBlock</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{190.000,478.000}</string>
+                    <string>{190.000,480.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48314,7 +48218,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36989</string>
+                <string>37432</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48327,7 +48231,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,576.000}</string>
+                    <string>{190.000,580.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48410,7 +48314,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36993</string>
+                <string>37433</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48423,7 +48327,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,674.000}</string>
+                    <string>{190.000,680.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48506,7 +48410,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>36997</string>
+                <string>37434</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48519,7 +48423,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,772.000}</string>
+                    <string>{190.000,780.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48602,7 +48506,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37001</string>
+                <string>37435</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48615,7 +48519,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,870.000}</string>
+                    <string>{190.000,880.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48698,7 +48602,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37005</string>
+                <string>37436</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48711,7 +48615,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,968.000}</string>
+                    <string>{190.000,980.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48794,7 +48698,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37009</string>
+                <string>37437</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48807,7 +48711,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,1066.000}</string>
+                    <string>{190.000,1080.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48890,7 +48794,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37013</string>
+                <string>37438</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48903,7 +48807,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,1164.000}</string>
+                    <string>{190.000,1180.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -48986,7 +48890,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37017</string>
+                <string>37439</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -48999,7 +48903,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,1262.000}</string>
+                    <string>{190.000,1280.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -49082,7 +48986,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37021</string>
+                <string>37440</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -49095,7 +48999,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,1360.000}</string>
+                    <string>{190.000,1380.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -49178,7 +49082,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37025</string>
+                <string>37441</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -49191,7 +49095,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,1458.000}</string>
+                    <string>{190.000,1480.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -49274,7 +49178,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>37029</string>
+                <string>37442</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
                 <key>Name</key>
@@ -49287,7 +49191,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{190.000,1556.000}</string>
+                    <string>{190.000,1580.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -49367,6 +49271,102 @@
                 </dict>
                 <key>zDepth</key>
                 <string>34</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>37443</string>
+                <key>className</key>
+                <string>PTModelObjectAssetUnit</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>WhiteBlock</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{190.000,1680.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.500,0.500}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Asset</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Object Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kEnemyObjectType</string>
+                </dict>
+                <key>Movement Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMovementLinear</string>
+                </dict>
+                <key>Collision Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoCollision</string>
+                </dict>
+                <key>Destroy Type</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kDestroyCollision</string>
+                </dict>
+                <key>Wake Up</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kTimeBasedWakeup</string>
+                </dict>
+                <key>Wakeup Distance</key>
+                <dict>
+                    <key>value</key>
+                    <string>700.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Sleep</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kNoWakeup</string>
+                </dict>
+                <key>Sleep Distance</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Rate</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Spawn Action</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kPermanentSpawning</string>
+                </dict>
+                <key>zDepth</key>
+                <string>35</string>
             </dict>
         </array>
     </dict>

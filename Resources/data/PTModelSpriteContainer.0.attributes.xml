@@ -589,17 +589,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>42853</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>AppIcon</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>42989</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -607,17 +596,6 @@
                 <dict>
                     <key>value</key>
                     <string>WhiteCircleDefeat</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>45001</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Shade</string>
                 </dict>
             </dict>
             <dict>
@@ -699,28 +677,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>45574</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>SHADEPerspective</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>45587</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Shade</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>45944</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -744,6 +700,8 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
             </dict>
             <dict>
@@ -781,13 +739,57 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>46825</string>
+                <string>46980</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>ShadeBBUpdate136s7</string>
+                    <string>Player9</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>47899</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player10</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48106</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player11</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48389</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player12</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48475</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>AppIcon</string>
                 </dict>
             </dict>
         </array>

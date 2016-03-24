@@ -44,18 +44,31 @@
                 <key>sourceSize</key>
                 <string>{2000, 801}</string>
             </dict>
-            <key>PTModelSprite_ID45658</key>
+            <key>PTModelSprite_ID48107</key>
             <dict>
                 <key>frame</key>
-                <string>{{0, 1408}, {190, 228}}</string>
+                <string>{{0, 1408}, {107, 114}}</string>
                 <key>offset</key>
-                <string>{-5, 11}</string>
+                <string>{0, 2}</string>
                 <key>rotated</key>
                 <string>false</string>
                 <key>sourceColorRect</key>
-                <string>{{0, 0}, {190, 228}}</string>
+                <string>{{22, 16}, {107, 114}}</string>
                 <key>sourceSize</key>
-                <string>{200, 250}</string>
+                <string>{150, 150}</string>
+            </dict>
+            <key>PTModelSprite_ID47900</key>
+            <dict>
+                <key>frame</key>
+                <string>{{111, 1408}, {100, 95}}</string>
+                <key>offset</key>
+                <string>{0, -8}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{25, 35}, {100, 95}}</string>
+                <key>sourceSize</key>
+                <string>{150, 150}</string>
             </dict>
         </dict>
         <key>metadata</key>

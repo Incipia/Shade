@@ -161,6 +161,82 @@
             </dict>
             <dict>
                 <key>id</key>
+                <string>46967</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>46969</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47054</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48580</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48218</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48220</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48302</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48594</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>47901</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47903</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>47924</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48602</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>48108</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48110</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48135</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48610</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
                 <string>45933</string>
                 <key>Default Animation</key>
                 <dict>
@@ -171,6 +247,11 @@
                 <dict>
                     <key>value</key>
                     <string>45959</string>
+                </dict>
+                <key>Locked Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>48618</string>
                 </dict>
             </dict>
         </array>
