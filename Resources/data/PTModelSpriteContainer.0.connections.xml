@@ -520,14 +520,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>46808</string>
-                <key>sprites</key>
-                <array>
-                    <string>46809</string>
-                </array>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>46980</string>
                 <key>sprites</key>
                 <array>
@@ -560,10 +552,62 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>48475</string>
+                <string>49461</string>
                 <key>sprites</key>
                 <array>
-                    <string>48476</string>
+                    <string>49462</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>49838</string>
+                <key>sprites</key>
+                <array>
+                    <string>49839</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50328</string>
+                <key>sprites</key>
+                <array>
+                    <string>50329</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50482</string>
+                <key>sprites</key>
+                <array>
+                    <string>50483</string>
+                    <string>50484</string>
+                    <string>50485</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50510</string>
+                <key>sprites</key>
+                <array>
+                    <string>50511</string>
+                    <string>50512</string>
+                    <string>50513</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50714</string>
+                <key>sprites</key>
+                <array>
+                    <string>50715</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52158</string>
+                <key>sprites</key>
+                <array>
+                    <string>52159</string>
                 </array>
             </dict>
         </array>

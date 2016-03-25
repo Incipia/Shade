@@ -1051,7 +1051,7 @@
                 <key>className</key>
                 <string>PTModelAnimation</string>
                 <key>duration</key>
-                <string>0.133333</string>
+                <string>0.100000</string>
                 <key>animationSpeed</key>
                 <string>0.200000</string>
             </dict>
@@ -1238,6 +1238,76 @@
             <dict>
                 <key>id</key>
                 <string>48618</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50332</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50397</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>3.000000</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50504</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.100000</string>
+                <key>animationSpeed</key>
+                <string>0.200000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50718</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50981</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>51338</string>
+                <key>className</key>
+                <string>PTModelAnimation</string>
+                <key>duration</key>
+                <string>0.033333</string>
+                <key>animationSpeed</key>
+                <string>1.000000</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>51701</string>
                 <key>className</key>
                 <string>PTModelAnimation</string>
                 <key>duration</key>

@@ -728,17 +728,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>46808</string>
-                <key>className</key>
-                <string>PTModelSpriteContainer</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>SHADEPower</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>46980</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
@@ -783,13 +772,79 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>48475</string>
+                <string>49461</string>
                 <key>className</key>
                 <string>PTModelSpriteContainer</string>
                 <key>Name</key>
                 <dict>
                     <key>value</key>
                     <string>AppIcon</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>49838</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>SHADEmodeTest</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50328</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>FAST</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50482</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>FastAnim1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50510</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ANormalAnim1</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50714</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Coin</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52158</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>incipia logo</string>
                 </dict>
             </dict>
         </array>

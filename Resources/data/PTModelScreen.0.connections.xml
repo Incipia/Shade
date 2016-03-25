@@ -9,7 +9,11 @@
                 <key>id</key>
                 <string>113</string>
                 <key>children</key>
-                <array/>
+                <array>
+                    <string>52162</string>
+                    <string>52168</string>
+                    <string>52165</string>
+                </array>
             </dict>
             <dict>
                 <key>id</key>

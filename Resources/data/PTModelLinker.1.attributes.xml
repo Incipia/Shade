@@ -205,29 +205,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>45485</string>
-                <key>className</key>
-                <string>PTModelLinker</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>45486</string>
-                <key>className</key>
-                <string>PTModelLinker</string>
-                <key>Name</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>45791</string>
                 <key>className</key>
                 <string>PTModelLinker</string>
                 <key>Name</key>

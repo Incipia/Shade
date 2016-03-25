@@ -343,6 +343,16 @@
                     <key>value</key>
                     <string>46776</string>
                 </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>50504</string>
+                </dict>
+                <key>Death Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>50802</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -351,6 +361,20 @@
                 <dict>
                     <key>value</key>
                     <string>46812</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>50330</string>
+                <key>Idle Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>50332</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>50397</string>
                 </dict>
             </dict>
         </array>

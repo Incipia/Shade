@@ -720,7 +720,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>200.000000</string>
+                    <string>300.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -797,7 +797,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>300.000000</string>
+                    <string>500.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -874,7 +874,7 @@
                 <key>Price</key>
                 <dict>
                     <key>value</key>
-                    <string>500.000000</string>
+                    <string>1000.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>

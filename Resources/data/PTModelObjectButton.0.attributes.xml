@@ -316,7 +316,7 @@
                     <string>kPauseButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>10</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -683,7 +683,7 @@
                     <string>kPauseButton</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
