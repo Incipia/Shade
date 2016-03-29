@@ -28,7 +28,7 @@
                 <key>Comments</key>
                 <dict>
                     <key>value</key>
-                    <string>Test Build</string>
+                    <string>For Release</string>
                 </dict>
                 <key>Reset text</key>
                 <dict>
@@ -149,7 +149,7 @@
                     <string>0</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>52178</string>
+                <string>53390</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>

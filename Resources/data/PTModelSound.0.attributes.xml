@@ -46,19 +46,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>44752</string>
-                <key>className</key>
-                <string>PTModelSound</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>DeathSound2Mstr.mp3</string>
-                </dict>
-                <key>fileFormat</key>
-                <string>mp3</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>44890</string>
                 <key>className</key>
                 <string>PTModelSound</string>

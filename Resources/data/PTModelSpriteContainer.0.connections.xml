@@ -610,6 +610,43 @@
                     <string>52159</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>52505</string>
+                <key>sprites</key>
+                <array>
+                    <string>52506</string>
+                    <string>52507</string>
+                    <string>52508</string>
+                    <string>52509</string>
+                    <string>52510</string>
+                    <string>52511</string>
+                    <string>52512</string>
+                    <string>52513</string>
+                    <string>52514</string>
+                    <string>52515</string>
+                    <string>52516</string>
+                    <string>52517</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52891</string>
+                <key>sprites</key>
+                <array>
+                    <string>52892</string>
+                    <string>52893</string>
+                    <string>52894</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>53295</string>
+                <key>sprites</key>
+                <array>
+                    <string>53296</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

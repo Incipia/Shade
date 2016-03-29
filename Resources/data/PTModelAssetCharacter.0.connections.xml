@@ -55,7 +55,7 @@
                 <key>Defeated Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>44752</string>
+                    <string>44890</string>
                 </dict>
             </dict>
             <dict>
@@ -79,7 +79,7 @@
                 <key>Defeated Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>44752</string>
+                    <string>44890</string>
                 </dict>
             </dict>
             <dict>
@@ -108,7 +108,7 @@
                 <key>Defeated Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>44752</string>
+                    <string>44890</string>
                 </dict>
             </dict>
             <dict>
@@ -132,7 +132,7 @@
                 <key>Defeated Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>44752</string>
+                    <string>44890</string>
                 </dict>
             </dict>
             <dict>
@@ -156,7 +156,7 @@
                 <key>Defeated Sound</key>
                 <dict>
                     <key>value</key>
-                    <string>44752</string>
+                    <string>44890</string>
                 </dict>
             </dict>
             <dict>
@@ -177,6 +177,11 @@
                     <key>value</key>
                     <string>48580</string>
                 </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -195,6 +200,11 @@
                 <dict>
                     <key>value</key>
                     <string>48594</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
                 </dict>
             </dict>
             <dict>
@@ -215,6 +225,11 @@
                     <key>value</key>
                     <string>48602</string>
                 </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -234,6 +249,11 @@
                     <key>value</key>
                     <string>48610</string>
                 </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
+                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -252,6 +272,49 @@
                 <dict>
                     <key>value</key>
                     <string>48618</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52499</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>52501</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>52642</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52895</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>52897</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>52916</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>44890</string>
                 </dict>
             </dict>
         </array>

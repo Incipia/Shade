@@ -847,6 +847,39 @@
                     <string>incipia logo</string>
                 </dict>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>52505</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player13</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52891</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Player14</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>53295</string>
+                <key>className</key>
+                <string>PTModelSpriteContainer</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>ByIncipia</string>
+                </dict>
+            </dict>
         </array>
     </dict>
 </plist>

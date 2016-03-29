@@ -133,15 +133,6 @@
                     <string>50822</string>
                 </dict>
             </dict>
-            <dict>
-                <key>id</key>
-                <string>51699</string>
-                <key>Idle Animation</key>
-                <dict>
-                    <key>value</key>
-                    <string>51701</string>
-                </dict>
-            </dict>
         </array>
     </dict>
 </plist>

@@ -741,6 +741,22 @@
                 <key>objectA</key>
                 <string>49152</string>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>52398</string>
+                <key>objectA</key>
+                <string>52396</string>
+                <key>objectB</key>
+                <string>52397</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52403</string>
+                <key>objectA</key>
+                <string>52401</string>
+                <key>objectB</key>
+                <string>52402</string>
+            </dict>
         </array>
     </dict>
 </plist>

@@ -348,7 +348,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.300,1.300}</string>
+                    <string>{0.200,0.200}</string>
                     <key>useDefault</key>
                     <string>0</string>
                 </dict>
@@ -1950,9 +1950,47 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,720.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52611</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>52898</string>
+                <key>className</key>
+                <string>PTModelObjectImage</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Untitled</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
             </dict>
         </array>
     </dict>

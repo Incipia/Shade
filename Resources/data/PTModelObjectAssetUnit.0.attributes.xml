@@ -727,7 +727,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>518</string>
+                <string>517</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -825,7 +825,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26714,7 +26714,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26824,7 +26824,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>504</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -26934,7 +26934,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27240,7 +27240,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>504</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27350,7 +27350,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -27460,7 +27460,7 @@
                     <string>kPermanentSpawning</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>

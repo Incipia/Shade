@@ -442,11 +442,15 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,180.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -489,6 +493,8 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,420.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
                 </dict>
                 <key>Action</key>
                 <dict>
